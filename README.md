@@ -1,7 +1,7 @@
 # Exploring previous Collaborations Workshop ideas (CW-ideas)
 This is the repo for a hack day project from the [2021 Collaborations Workshop](http://www.software.ac.uk/cw21) which aims to explore ideas from previous Collaborations Workshops and provide them in an easily browseable and searchable form.
 
-A live version of the website is hosted at [https://robintw.github.io/CW-ideas/](https://robintw.github.io/CW-ideas/).
+A live version of the website is hosted at [https://softwaresaved.github.io/CW-ideas/](https://softwaresaved.github.io/CW-ideas/).
 
 The repo consists of markdown versions of the collaborative ideas and hackday pitches, plus code to host a website to view them.
 
@@ -29,4 +29,4 @@ Tasks divided orthogonally
 - Provisioning a GitHub repo (Robin)
 
 ## Hack day presentation
-Available [here](https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit?usp=sharing)
+Available [here](https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit?usp=sharing).
