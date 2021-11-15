@@ -1,5 +1,5 @@
 # Exploring previous Collaborations Workshop ideas (CW-ideas)
-This is the repo for a hack day project from [Collaborations Workshop 2021](http://www.software.ac.uk/cw21) which aims to explore previous ideas from Collaborations Workshops and provide them in an easily browseable and searchable form.
+This is the repo for a hack day project from the [2021 Collaborations Workshop](http://www.software.ac.uk/cw21) which aims to explore ideas from previous Collaborations Workshops and provide them in an easily browseable and searchable form.
 
 A live version of the website is hosted at [https://robintw.github.io/CW-ideas/](https://robintw.github.io/CW-ideas/).
 
