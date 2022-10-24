@@ -54,14 +54,17 @@ tags: software-carpentry training
 ```
 
 Specifically, note that:
-- The `title` is the full text title of the idea, not the ID number or ID name (eg. 'Garfield') used for the idea. This can often be found under the _Idea Name_ heading in the document. If it has special characters in it like `:` or `&` then wrap the title in double-quotes.
-- The `author` is a YAML list of authors, one per line
-- The `year` is the year of the Collaborations Workshop where the idea was proposed
-- The `type` is either `hack day` for a Hack Day idea or `collaborative idea` for a Collaborative Idea
-- The `tags` contains a list (one per line) of tags for the entry
+- The `title` is the full text title of the idea, not the ID number nor the ID name (eg. 'Garfield') used for the idea. This can often be found under the _Idea Name_ heading in the document. If it has special characters in it like `:` or `&` then wrap the title in double-quotes.
+- The `author` is a YAML list of authors, one per line.
+- The `year` is the year of the Collaborations Workshop when the idea was proposed.
+- The `type` is either:
+  -  `hack day` for a Hack Day idea or 
+  - `collaborative idea` for a Collaborative Idea.
+
+- The `tags` contains a list (one per line) of tags for the entry.
 
 ### Save the file
-The file should be saved in the `ideas` directory, with a name formatted as `cwXX-title-here-separated-by-dashes.md`. For example, `ideas/cw21-using-raspberry-pis-to-deliver-carpentries-training-in-remote-locations.md`. If the idea title is extremely long then a shortened version can be used for the filename.
+The file should be saved in the `ideas` directory, with a name formatted such as `cwXX-title-here-separated-by-dashes.md` where the `XX` represents the CW year identifier. For example, `ideas/cw21-using-raspberry-pis-to-deliver-carpentries-training-in-remote-locations.md`. If the idea title is extremely long then a shortened version can be used for the filename.
 
 ## Contributing to the website code
 The templates for the website are in `themes/PaperMod/layouts` and the 'special pages' (like the 'By Year' view) are defined as special markdown pages in `content`. Please see the [Hugo documentation](https://gohugo.io/documentation/) for more information on how to edit these.
