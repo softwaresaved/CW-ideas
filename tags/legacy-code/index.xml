@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>legacy-code on Collaborations Workshop Ideas &amp; Pitches</title><link>https://robintw.github.io/CW-ideas/tags/legacy-code/</link><description>Recent content in legacy-code on Collaborations Workshop Ideas &amp; Pitches</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://robintw.github.io/CW-ideas/tags/legacy-code/index.xml" rel="self" type="application/rss+xml"/><item><title>Dealing with Legacy Code</title><link>https://robintw.github.io/CW-ideas/cw20-legacy-code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw20-legacy-code/</guid><description>CW20 - 2020-03-31 to 2020-04-02 Idea 4 - CI4-CW20
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>legacy-code on Collaborations Workshop Ideas &amp; Pitches</title><link>https://softwaresaved.github.io/CW-ideas/tags/legacy-code/</link><description>Recent content in legacy-code on Collaborations Workshop Ideas &amp; Pitches</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://softwaresaved.github.io/CW-ideas/tags/legacy-code/index.xml" rel="self" type="application/rss+xml"/><item><title>Dealing with Legacy Code</title><link>https://softwaresaved.github.io/CW-ideas/cw20-legacy-code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw20-legacy-code/</guid><description>CW20 - 2020-03-31 to 2020-04-02 Idea 4 - CI4-CW20
 Dealing with Legacy Code
 Participants Patricia Herterich_ _
 Cat Smith_ _
@@ -6,4 +6,4 @@ Christopher Fullerton
 Raniere Silva
 Philipp Boersch-Supan
 Context / Research Domain All research domains which have to contend with/rely on legacy code which does not conform to best practices.
-Problem Researchers are instructed to use some legacy code written by their team, a third party or even themselves a while ago.</description></item></channel></rss>
+Problem Researchers are instructed to use some legacy code written by their team, a third party or even themselves a while ago. The code isn&amp;rsquo;t documented or unit tested.</description></item></channel></rss>
