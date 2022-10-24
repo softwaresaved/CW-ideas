@@ -68,3 +68,7 @@ The file should be saved in the `ideas` directory, with a name formatted such as
 
 ## Contributing to the website code
 The templates for the website are in `themes/PaperMod/layouts` and the 'special pages' (like the 'By Year' view) are defined as special markdown pages in `content`. Please see the [Hugo documentation](https://gohugo.io/documentation/) for more information on how to edit these.
+
+## Publishing pages
+
+The publishing of the pages is done by GitHub Actions. You should ensure that these have been enabled by your repository.
