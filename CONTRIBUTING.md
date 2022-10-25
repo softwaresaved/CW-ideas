@@ -1,8 +1,19 @@
 # Contributing to CW-ideas
-There are multiple components of the CW-ideas project that are accepting contributions.
+There are multiple components to the CW-ideas project that are accepting contributions.
+
+* [Contributing ideas from Collaborations Workshops](#contributing-ideas-from-collaborations-workshops)
+  * [Convert Doc to Markdown](#convert-doc-to-markdown)
+  * [Clean up the Markdown](#clean-up-the-markdown)
+  * [Add the metadata](#add-the-metadata)
+  * [Save the file](#save-the-file)
+* [Contributing to the website code](#contributing-to-the-website-code)
+* [Publishing pages](#publishing-pages)
+
+
 
 ## Contributing ideas from Collaborations Workshops
-The main data source for CW-ideas is a set of markdown documents containing the ideas (both collaborative ideas and hack day pitches) from previous Collaborations Workshops. These are created by converting the Google Documents used during the conference into Markdown, and adding some metadata. Instructions for doing this are below:
+
+The main data source for CW-ideas is a set of markdown documents containing the ideas (both collaborative ideas and hack day pitches) from previous Collaborations Workshops. These are created by converting the Google Documents used during the conference into Markdown, and adding some metadata. Instructions for doing this are below.
 
 ### Convert Doc to Markdown
 1. Install the [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) extension for Google Docs. You may need to restart Chrome after installation if you find that the relevant menu items do not appear.
