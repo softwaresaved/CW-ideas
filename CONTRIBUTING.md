@@ -6,6 +6,7 @@ There are multiple components to the CW-ideas project that are accepting contrib
   * [Clean up the Markdown](#clean-up-the-markdown)
   * [Add the metadata](#add-the-metadata)
   * [Save the file](#save-the-file)
+  * [Images](#images)
 * [Contributing to the website code](#contributing-to-the-website-code)
 * [Publishing pages](#publishing-pages)
 
@@ -17,15 +18,18 @@ The main data source for CW-ideas is a set of markdown documents containing the 
 
 ### Convert Doc to Markdown
 1. Install the [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) extension for Google Docs. You may need to restart Chrome after installation if you find that the relevant menu items do not appear.
-2. Open a Collaborative Idea/Hack Day pitch document
+2. Open a Collaborative Idea/Hack Day pitch document.
 3. Go to the `Add-ons` menu, choose `Docs to Markdown` and then `Convert`.
-4. Tick two options in the configuration area at the top of the sidebar: `Demote headings` and `Suppress top comment`.
+4. Tick the following two options in the configuration area at the top of the sidebar: 
+   * `Demote headings` and 
+   * `Suppress info comment`.
 5. Click the `Markdown` button at the top, and a markdown version of the document will be displayed in the document and copied to the clipboard.
 6. Open a text editor and paste the converted markdown.
+7. Save the file to a file in the `content` directory using the following format: `cwXX-Idea-title-with-no-spaces.md` where `XX` corresponds to the CW year/number.
 
 ### Clean up the Markdown
 If the document included images, then these are not extracted automatically. Instead, 'alerts' are included in the document, reminding you to download the images manually. To fix these:
-1. Scroll to each image in the document and take a screenshot of the image (it appears to be impossible to download the images as the original files) and use an image editor to save this as a PNG file in the `ideas\images` subdirectory.
+1. Scroll to each image in the document and take a screenshot of the image (it appears to be impossible to download the images as the original files) and use an image editor to save this as a PNG file in the `static/images` subdirectory.
 2. Find the alert areas in the document - they look like this:
 ```html
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -77,9 +81,15 @@ Specifically, note that:
 ### Save the file
 The file should be saved in the `ideas` directory, with a name formatted such as `cwXX-title-here-separated-by-dashes.md` where the `XX` represents the CW year identifier. For example, `ideas/cw21-using-raspberry-pis-to-deliver-carpentries-training-in-remote-locations.md`. If the idea title is extremely long then a shortened version can be used for the filename.
 
+### Images
+
+Any images in the Google document will have to be saved in `static/images/`. These will not show properly in the `main` thread but they should be fine in the `gh-pages` thread.
+
 ## Contributing to the website code
 The templates for the website are in `themes/PaperMod/layouts` and the 'special pages' (like the 'By Year' view) are defined as special markdown pages in `content`. Please see the [Hugo documentation](https://gohugo.io/documentation/) for more information on how to edit these.
 
 ## Publishing pages
 
-The publishing of the pages is done by GitHub Actions. You should ensure that these have been enabled by your repository.
+The pages can be [hosted on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/).The publishing of the pages is done through GitHub Actions (See the `.github/workflows/gh-pages.yml` in the root directory of the repository). You need ensure that [Action workflows](https://docs.github.com/en/actions/managing-workflow-runs/disabling-and-enabling-a-workflow) have been enabled for your repository on GitHub. Whenever you push content to GitHub it will be processed and published to the `gh-pages` branch which is published on GitHub at:
+
+* [softwaresaved.github.io/CW-ideas/](https://softwaresaved.github.io/CW-ideas/)
