@@ -5,8 +5,8 @@ author:
 - Gemma Turon 
 - Sarah Forrester
 - Emma Karoune
-- Vicky Hellon,
-- Katy Brown,
+- Vicky Hellon
+- Katy Brown
 year: 2022
 type: collaborative ideas
 tags: 
@@ -43,8 +43,6 @@ _Easy Open Source Bio-Graphs_
 
 
 #### **Context / Research Domain**
-
-_Please describe the context or research domain to which the problem applies._
 
 Many biological labs have routine assays or experiments which require standard analysis and produce a well understood graph as an output. _Create a jupyter app or something similar to automate the process of some assay like QPCR and produce the standard graphs/analysis maybee to replace some like graphpad. Possibly in the form of a repository + examples + template_
 
