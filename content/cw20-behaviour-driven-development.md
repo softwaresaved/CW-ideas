@@ -21,22 +21,20 @@ Adding Behaviour Driven Development to Exploratory Research Notebooks
 
 ### **Participants**
 
-_Jon Massey_
+* _Jon Massey_
 
-_Ben Krikler_
+* _Ben Krikler_
 
-_Anastasis Georgoulas_
+* _Anastasis Georgoulas_
 
-_Matthew Bluteau_
+* _Matthew Bluteau_
 
-_Steve Crouch_
+* _Steve Crouch_
 
 
 
 ---
 
-
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all the hint text (grey, Arial 11, italic) once you no longer need it._
 
 _Discussion_
 
