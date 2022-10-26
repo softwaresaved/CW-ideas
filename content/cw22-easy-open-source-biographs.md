@@ -69,20 +69,17 @@ The initial step would be to build the repository and to provide one or two exam
 
 #### **Diagrams / Illustrations**
 
-Example of the current machine output and standard plotting style for qPCR analysis ([https://commons.wikimedia.org/wiki/File:Qpcr-cycling.png](https://commons.wikimedia.org/wiki/File:Qpcr-cycling.png), [https://commons.wikimedia.org/wiki/File:Dapansutrile_and_its_effect_on_NLRPE_mRNA_Levels.png](https://commons.wikimedia.org/wiki/File:Dapansutrile_and_its_effect_on_NLRPE_mRNA_Levels.png)) 
-
+Example of the current machine output and standard plotting style for qPCR analysis 
+* [https://commons.wikimedia.org/wiki/File:Qpcr-cycling.png](https://commons.wikimedia.org/wiki/File:Qpcr-cycling.png), 
+* [https://commons.wikimedia.org/wiki/File:Dapansutrile_and_its_effect_on_NLRPE_mRNA_Levels.png](https://commons.wikimedia.org/wiki/File:Dapansutrile_and_its_effect_on_NLRPE_mRNA_Levels.png)
 
 ![Plotting style for a qPCR analysis.](../images/cw22-qpcr-analysis.png)
 
-
 Example of experimental setup and plotting of a cell survival assay:
-
 
 ![Plotting a cell survival assay.](../images/cw22-survival-assay.png)
 
-
 Very approximate mock-up
-
 
 ![Interface mock-up.](../images/cw22-mockup.png)
 
