@@ -1,12 +1,12 @@
 ---
 title: Easy Open Source Bio-Graphs
 author:
-- Mark Basham, Rosalind Franklin Institute, [mark.basham@rfi.ac.uk](mailto:mark.basham@rfi.ac.uk) (note taker)
-- Gemma Turon, Ersilia Open Source Initiative, [gemma@ersilia.io](mailto:gemma@ersilia.io)
-- Sarah Forrester, University of York, [sarah.forrester@york.ac.uk](mailto:sarah.forrester@york.ac.uk)  - (chair)
-- Emma Karoune, The Alan Turing Institute, [ekaroune@turing.ac.uk](mailto:ekaroune@turing.ac.uk)
-- Vicky Hellon, The Alan Turing Institute, [vhellon@turing.ac.uk](mailto:vhellon@turing.ac.uk)
-- Katy Brown, University of Cambridge, [kab84@cam.ac.uk](mailto:kab84@cam.ac.uk)
+- Mark Basham
+- Gemma Turon 
+- Sarah Forrester
+- Emma Karoune
+- Vicky Hellon,
+- Katy Brown,
 year: 2022
 type: collaborative ideas
 tags: 
@@ -22,10 +22,7 @@ tags:
 
 Biological Sciences.
 
-
 #### **Participants**
-
-_Please list the participants here (Full name, Affiliation, Email address)._
 
 * Mark Basham, Rosalind Franklin Institute, [mark.basham@rfi.ac.uk](mailto:mark.basham@rfi.ac.uk) - note taker
 
