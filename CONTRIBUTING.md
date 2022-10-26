@@ -29,7 +29,7 @@ The main data source for CW-ideas is a set of markdown documents containing the 
 
 ### Clean up the Markdown
 If the document included images, then these are not extracted automatically. Instead, 'alerts' are included in the document, reminding you to download the images manually. To fix these:
-1. Scroll to each image in the document and take a screenshot of the image (it appears to be impossible to download the images as the original files) and use an image editor to save this as a PNG file in the `static/images` subdirectory.
+1. Scroll to each image in the document and take a screenshot of the image (it appears to be impossible to download the images as the original files) and use an image editor to save this as a PNG file in the `static/images` subdirectory. In the markdown you need to point to the file `cwXX-uniquename.png` using `../images/cwXX-uniquename.png`. Note the image will not be shown if you are using a wysiwyg markdown editor as the path does not correspond but it will be ok when the document is published on the web site - if you use `../static/images/cwXX-uniquename.png` it will NOT work.
 2. Find the alert areas in the document - they look like this:
 ```html
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
