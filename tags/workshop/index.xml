@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>workshop on Collaborations Workshop Ideas &amp; Pitches</title><link>https://softwaresaved.github.io/CW-ideas/tags/workshop/</link><description>Recent content in workshop on Collaborations Workshop Ideas &amp; Pitches</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://softwaresaved.github.io/CW-ideas/tags/workshop/index.xml" rel="self" type="application/rss+xml"/><item><title>Coding Confessions</title><link>https://softwaresaved.github.io/CW-ideas/cw21-coding-confessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-coding-confessions/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Blanch-1943 - HP3-CW21
-Hack Day idea proposer Colin Sauze
-This document should be used to capture the information for a Hack Day Idea.
-Idea name (provisional) Coding Confessions
-This is the provisional name of the Idea, solution or just a title; this can be changed later if a team is formed and you decide on a new team/product name.
-Context and/or research domain Please describe the context and/or research domain to which the problem applies</description></item></channel></rss>
+Hack Day idea proposer Colin Sauze Idea name (provisional) Coding Confessions
+Context and/or research domain Anybody who writes code for research
+Problem People don’t want to talk about their mistakes, publish code or submit it for review. Only positive results get published. Common reasons for this are fear that “my code isn’t good enough”, “isn’t complete enough”, “has mistakes in it”.</description></item></channel></rss>
