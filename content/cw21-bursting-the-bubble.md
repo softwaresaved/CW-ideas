@@ -9,6 +9,8 @@ author:
 year: 2021
 type: collaborative-ideas
 tags:
+- guidance
+- good-practice
 ---
 ### CW21 - 2021-03-30
 
@@ -17,27 +19,15 @@ Noodle - CI14-CW21
 
 ### **Participants**
 
-Marion Weinzierl (Durham University)
-
-Sam Harrison (UK Centre for Ecology & Hydrology)
-
-Arielle Bennett (Alan Turing Institute, London)
-
-Steve Crouch (SSI, Southampton)
-
-Mark Turner (Durham University)
-
-
+* Marion Weinzierl (Durham University)
+* Sam Harrison (UK Centre for Ecology & Hydrology)
+* Arielle Bennett (Alan Turing Institute, London)
+* Steve Crouch (SSI, Southampton)
+* Mark Turner (Durham University)
 
 ---
 
-
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all of this hint text (Arial, italic, grey, size 11) once you no longer need it._
-
-
 ### Notes
-
-
 
 *   Marion: How to work with and take forward legacy code? Is there a checklist to make use of for this? Or develop an automatic script to parse the repo and tell me how to improve it?
     *   [https://software.ac.uk/sites/default/files/SSI-SoftwareEvaluationCriteria.pdf](https://software.ac.uk/sites/default/files/SSI-SoftwareEvaluationCriteria.pdf) - SSI's software evaluation criteria
