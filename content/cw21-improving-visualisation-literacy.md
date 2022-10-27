@@ -10,6 +10,7 @@ year: 2021
 type: collaborative ideas
 tags:
 - training
+- visualisation
 ---
 
 ### CW21 - 2021-03-30
@@ -19,22 +20,14 @@ Heathcliff - CI8-CW21
 
 ### **Participants**
 
-_Please list the participants here_
 
-_Connie Clare_
-
-_Louise Brown_
-
-_Sam Haynes_
-
-_Will Furnass_
-
-_Patricia Herterich_
-
-
+* _Connie Clare_
+* _Louise Brown_
+* _Sam Haynes_
+* _Will Furnass_
+* _Patricia Herterich_
 
 ---
-
 
 
 ### **Problem**
@@ -52,7 +45,6 @@ _We have all seen many graphs and statistical summaries over the last 12 months,
 
 ### **Solution**
 
-_Provide a tool which will enable the public to be able to interpret and robustly critique interpretations of data presented in the media and decide whether they are showing what they claim to show._
 
 **_Phase 1_**
 
@@ -66,14 +58,10 @@ _Growing a community for exposing the misrepresentation of data. People can high
 
 **_Phase 3_**
 
-_Creating a peer review process for that community similar to the rOpenSci community to ensure that proposed reinterpretations of graphics and statistical summaries are of sufficient quality. _
+_Creating a peer review process for that community similar to the rOpenSci community to ensure that proposed reinterpretations of graphics and statistical summaries are of sufficient quality._
 
 
 ### **Diagrams / Illustrations**
-
-_You can include one or two diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
-
-
 
 
 ![alt_text](../images/graph1.jpg)
@@ -84,7 +72,7 @@ _You can include one or two diagrams in this section. Please ensure you have the
 ![alt_text](../images/graph2.jpg)
 
 
-_(https://towardsdatascience.com/stopping-covid-19-with-misleading-graphs-6812a61a57c9)_
+[https://towardsdatascience.com/stopping-covid-19-with-misleading-graphs-6812a61a57c9](https://towardsdatascience.com/stopping-covid-19-with-misleading-graphs-6812a61a57c9)
 
 
 ### Licence
