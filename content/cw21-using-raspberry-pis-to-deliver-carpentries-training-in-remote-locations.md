@@ -11,6 +11,7 @@ type: hack day
 tags:
 - software-carpentry
 - training
+- raspberry-pi
 ---
 
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01
@@ -20,17 +21,13 @@ Lovelace-1842 - HP16-CW21
 
 ### **Hack Day idea proposer**
 
-Becca Wilson
-Irma Hafidz
-Alison Clarke
-Talia Caplan
-Jannetta Steyn
-
+* Becca Wilson
+* Irma Hafidz
+* Alison Clarke
+* Talia Caplan
+* Jannetta Steyn
 
 ---
-
-
-_This document should be used to capture the information for a Hack Day Idea._
 
 
 ### **Idea name (provisional)**
@@ -42,29 +39,20 @@ _Using Raspberry Pis to deliver Carpentries training in remote locations_
 
 ### **Context and/or research domain**
 
-_Please describe the context and/or research domain to which the problem applies_
 
 Low-to-Middle-Income Countries (LMICs) experience several challenges in building capacity of data analysis or software engineering skills that are necessary for contemporary data science. Several training programmes exist online, however these may not be easily accessible or in formats that can be utilised.
 
-
 ### **Problem**
-
-_Description of the problem you are trying to solve_
 
 Software and data carpentries courses provide training in fundamental data skills essential to conducting research. Training researchers in these data skills is an essential part of empowering researchers in LMICs. However, delivering these courses depends on reliable internet access. That means that individuals who are living in areas with unreliable internet access, quite literally cannot access this valuable training.
 
-
 ### **Solution**
-
-_Explanation of the solution to the problem you have identified_
 
 Create an infrastructure using raspberry pis to deliver software and data carpentries offline and in remote areas. The idea is that a trainer could carry the devices to the training location, use keyboards/mice/displays that are already there, and easily set up a network that contains all the training materials, with no need for external internet access.
 
 The materials would all be available on GitHub and licensed so that anyone could take the materials, set up their own network of Raspberry Pis, and deliver the Carpentries training courses.
 
 The work could be broken down as follows:
-
-
 
 1. Identify components/overall structure of PI network, for example: 
     1. wifi access point - If access is possible, a mobile network APN can be used. If not a Raspberry Pi access point (eb. RaspAP) can be used to network several Pis.
@@ -88,8 +76,6 @@ The work could be broken down as follows:
 
 
 ### **Diagrams / illustrations**
-
-_You can include diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
 
 ![alt_text](../images/RPi_Carpentry_Remote_1.png "image_tooltip")
 
