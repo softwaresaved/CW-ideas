@@ -9,30 +9,30 @@ author:
 year: 2021
 type: collaborative ideas
 tags:
+- RSE
+- skills
 ---
-o### CW21 - 2021-03-30
+
+### CW21 - 2021-03-30
 
 Macavity - CI13-CW21
 
 
 ### **Participants**
 
-_Louise Chisholm_
+* _Louise Chisholm_
 
-_Malin Sandstrom (chair?)_
+* _Malin Sandstrom (chair?)_
 
-_Florian Mannseicher_
+* _Florian Mannseicher_
 
-_Emma Karoune (scribe)_
+* _Emma Karoune (scribe)_
 
-_Andrew Brown (scribe)_
-
+* _Andrew Brown (scribe)_
 
 
 ---
 
-
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all of this hint text (Arial, italic, grey, size 11) once you no longer need it._
 
 **<span style="text-decoration:underline;">IDEAS:</span>**
 
