@@ -7,6 +7,7 @@ year: 2021
 type: hack day
 tags:
 - credit
+- tool
 ---
 
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01
@@ -16,25 +17,17 @@ Booth-1948 - HP4-CW21
 
 ### **Hack Day idea proposer**
 
-**Emma Karoune (representing _The Turing Way_ Community)**
-
-**Malin Sandstrom (INCF, CSCCE)**
+* **Emma Karoune (representing _The Turing Way_ Community)**
+* **Malin Sandstrom (INCF, CSCCE)**
 
 ---
-
-
-_This document should be used to capture the information for a Hack Day Idea._
-
 
 ### **Idea name (provisional)**
 
 Inclusive authorship/contributor tool 
 
-
-
 *   Name ideas = Credit Me or All authors - 
 *   **Credit All**
-
 
 ### **Context and/or research domain**
 
@@ -47,8 +40,6 @@ Current systems that attribute contributions to authors in academic outputs do n
 
 Issues include:
 
-
-
 *   Capturing all roles on a project.
 *   How to capture all tasks within those roles.
 *   How to give different weight/credit to tasks completed or should they all have equal value?
@@ -58,7 +49,6 @@ Issues include:
 ### **Solution**
 
 
-
 *   Expand current lists to be more inclusive - using current systems such as CRediT, INRIA, BIDS Contributors.
 *   Develop a tool to be used to record these contributions during the project such as within a Github repository. 
 *   Develop a way that this can be shown on academic papers - lists, table, cinema title page? (look at e.g. Brainhack paper w 100+ authors and Living with machines).
@@ -66,12 +56,10 @@ Issues include:
 
 ### **Diagrams / illustrations**
 
-_You can include diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
 
 **From Malin Sandstrom’s Lightning talk at CW21**
 
 Other resources:
-
 
 
 *   [https://www.natureindex.com/news-blog/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers](https://www.natureindex.com/news-blog/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers)
