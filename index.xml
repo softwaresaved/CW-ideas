@@ -275,19 +275,25 @@ _Sam Mangham - s.w.mangham@soton.ac.uk, _
 Ben Krikler - b.krikler@cern.ch,
 Alejandra Gonzalez-Beltran - alejandra.gonzalez.beltran@gmail.com,
 Tyler Whitehouse
-This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two).</description></item><item><title>Macavity</title><link>https://softwaresaved.github.io/CW-ideas/cw21-macavity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-macavity/</guid><description>o### CW21 - 2021-03-30
-Macavity - CI13-CW21
+This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two).</description></item><item><title>Macavity</title><link>https://softwaresaved.github.io/CW-ideas/cw21-macavity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-macavity/</guid><description>CW21 - 2021-03-30 Macavity - CI13-CW21
 Participants Louise Chisholm
 Malin Sandstrom (chair?)
 Florian Mannseicher
 Emma Karoune (scribe)
 Andrew Brown (scribe)
-This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all of this hint text (Arial, italic, grey, size 11) once you no longer need it.</description></item><item><title>Maintainable Tutorials Made Quickly</title><link>https://softwaresaved.github.io/CW-ideas/cw19-tutorials-quickly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw19-tutorials-quickly/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Maintainable Tutorials Made Quickly - HP16-CW2CC
+IDEAS:
+Skills Wheel for RSEs
+Ideas:
+Community management
+How to be an RSE: define the professional identity, especially for young people starting out
+_Training materials portal: practices, tools, languages etc. _
+Carpentries address skills, this portal could address the (professional?) framework
+Skills wheel
+Different ways into RSE: direct training, researchers who incorporate RSE practices etc.</description></item><item><title>Maintainable Tutorials Made Quickly</title><link>https://softwaresaved.github.io/CW-ideas/cw19-tutorials-quickly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw19-tutorials-quickly/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Maintainable Tutorials Made Quickly - HP16-CW2CC
 Hackday Idea Proposer Adam Jackson - magicguy@gmail.com
 Context / Research Domain This tool assists documentation of small command-line programs as created by novices
 Problem Many researchers have a limited time/energy allocation for their software development. Documentation tends to be a low priority, and within the documentation tutorial/how-to content is somewhat intimidating. This is a problem as this content is especially important for bringing in additional users, who may be able to contribute experience (and code!</description></item><item><title>Message in e-Bottle: work more effectively with ephemeral teams across timezones</title><link>https://softwaresaved.github.io/CW-ideas/cw20-message-in-ebottle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw20-message-in-ebottle/</guid><description>CW20 - 2020-03-31 to 2020-04-02 Idea 3 - Message in e Bottle: work more effectively with ephemeral teams across timezones. - CI3-CW20
-Participants Shoaib Sufi (shoaib.sufi@software.ac.uk), Carlos Martinez (c.martinez@esciencecenter.nl) (scribe), Alessandro Felder (a.felder@ucl.ac.uk) (chair), Emmy Tsang (e.tsang@elifesciences.org), Aleksandra Nenadic (a.nenadic@manchester.ac.uk)
-Original slide at - _https://docs.google.com/presentation/d/1GbwxVrWpqw_Nk9Mg9dinLUUThHSfetVsg7KD2SiGIkk/edit?usp=sharing _
+Participants Shoaib Sufi (shoaib.sufi@software.ac.uk), Carlos Martinez (c.martinez@esciencecenter.nl) (scribe), Alessandro Felder (a.felder@ucl.ac.uk) (chair), Emmy Tsang (e.tsang@elifesciences.org), Aleksandra Nenadic (a.nenadic@manchester.ac.uk) Original slide at - _https://docs.google.com/presentation/d/1GbwxVrWpqw_Nk9Mg9dinLUUThHSfetVsg7KD2SiGIkk/edit?usp=sharing _
 Context / Research Domain Are you:
 A workshop host delivering a session to participants from multiple time zones? A hackathon organiser facilitating collaborations between newcomers and experienced community members in teams spread across different time zones?</description></item><item><title>Netflix of libraries</title><link>https://softwaresaved.github.io/CW-ideas/cw19-netflix-libraries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw19-netflix-libraries/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Netflix of libraries - HP12-CW2CC
 Hackday Idea Proposer ben krikler - mr.krikler@gmail.com
@@ -297,14 +303,12 @@ Problem Developers can find it hard to** identify suitable software libraries fo
 **Overview of the project: **Guiding documents/tools for leading and sustaining online research communities facilitated by collaborative projects or events.
 Participants Will Furnass: Scribe Colin Sauze Louise Bowler: Chair Malvika Sharan (malvikasharan@gmail.com) Jo Leng (j.leng@leeds.ac.uk) Mateusz Kuzak (@matkuzak) Back up zoom: https://turing-uk.zoom.us/s/6507227126 (Malvika)
 This document should be used to capture the information for a Collaborative Session / Hack Day Idea.</description></item><item><title>Open Source Covid Analysis of References (OSCAR)</title><link>https://softwaresaved.github.io/CW-ideas/cw21-oscar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-oscar/</guid><description>CW21 - 2021-03-30 Oscar - CI15-CW21
-Participants Please list the participants here
-Michelle Barker
+Participants Michelle Barker
 Shoaib Suf
 Daniel S Katz
 Carina Haupt
 Callum Rollo
-Title: Open Source Covid Analysis of References (OSCAR) Context / Research Domain Please describe the context or research domain to which the problem applies
-Software’s use in the Covid19 pandemic is somewhat hidden but ubiquitous. Understanding the impact of software in the pandemic would give it the credit that software deserves, raise its profile and potentially highlight the software readiness that would help in any future public health emergency.</description></item><item><title>Productivity Approximator</title><link>https://softwaresaved.github.io/CW-ideas/cw18-productivityapproximator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw18-productivityapproximator/</guid><description>Collaborations Workshop 2018 - 2018-03-26
+Title: Open Source Covid Analysis of References (OSCAR) Context / Research Domain Software’s use in the Covid19 pandemic is somewhat hidden but ubiquitous. Understanding the impact of software in the pandemic would give it the credit that software deserves, raise its profile and potentially highlight the software readiness that would help in any future public health emergency.</description></item><item><title>Productivity Approximator</title><link>https://softwaresaved.github.io/CW-ideas/cw18-productivityapproximator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw18-productivityapproximator/</guid><description>Collaborations Workshop 2018 - 2018-03-26
 Productivity Approximator - HP7-CW18
 Hackday Idea Proposer
 M. H. Beals - drmelodeebeals@gmail.com
