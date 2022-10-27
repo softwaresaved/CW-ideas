@@ -10,42 +10,30 @@ tags:
 - research
 ---
 
-
-
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01
 
 Batey-1941 - HP2-CW21
 
-
-### **Hack Day idea proposer**
+### **Hack Day idea proposers**
 
 Neil Chue Hong and Stephan Druskat
-
 
 
 ---
 
 
-_This document should be used to capture the information for a Hack Day Idea._
-
-
 ### **Idea name (provisional)**
 
-_This is the provisional name of the Idea, solution or just a title; this can be changed later if a team is formed and you decide on a new team/product name._
 
 Enabling analysis of research software: Creating an enhanced research software corpus
 
 
 ### **Context and/or research domain**
 
-_Please describe the context and/or research domain to which the problem applies_
-
 Research on research software (cross-domain)
 
 
 ### **Problem**
-
-_Description of the problem you are trying to solve_
 
 Until very recently, a key challenge in trying to understand the research software landscape was that we didn’t know how to find research software - there was no single, comprehensive “research software directory” or curated lists of commonly used research software, though there are discipline-specific catalogues and lists (e.g. on Wikipedia), an increasing number of entries on Wikidata (e.g. for [SQLite](https://www.wikidata.org/wiki/Q319417)), and recent initiatives such as the [NLeSC Research Software Directory](https://www.research-software.nl/) and the [Research Software Encyclopedia](https://rseng.github.io/software/). 
 
@@ -58,19 +46,14 @@ We would like to make this data more useful for those wanting to undertake resea
 
 ### **Solution**
 
-_Explanation of the solution to the problem you have identified_
 
 Potential ways of improving this include:
-
-
 
 *   Analysing and cleaning the CORD-19 software mentions to create a canonical list of software along with common aliases (e.g. MS Excel, Excel, Microsoft Excel should all be related)
 *   Annotating the datasets to provide additional useful metadata such as DOIs, URLs to code repositories where they exist, release dates
 *   Creating processes and tools that assist with the above
 
 This could then be used to provide some basic metrics around the research software landscape e.g.
-
-
 
 *   What is the most popular license for research software? Has this changed through time? 
 *   Is the most popular software updated more often?
@@ -82,22 +65,16 @@ This could then be used to provide some basic metrics around the research softwa
 
 It could also be used to demonstrate things that we could do with such a corpus
 
-
-
 *   Demonstrate the state of FAIRness of software, and track the development of FAIRness
 *   Use it for testing and benchmarking software engineering methods, e.g., automated program repair, test generation, etc.
 
 And, of course, the big one:
-
-
 
 *   What software is most important to COVID-19 research?
 
 As suggested by the [OSCAR collaborative ideas group](https://docs.google.com/document/d/1o2ax52Lxk0DLCkGiocqvMai0ZLfbQP0Rs0fmUd381ks/edit), there are many things that could be done to analyse the dataset, to identify statistics or trends that could illustrate issues. These include the key role software has played in responding to COVID-19 (and lack of recognition of its importance), the issues in citation of research software (and possibly findability and accessibility of the software), methods to identify key software infrastructure.
 
 Some of the questions we could hope to answer are:
-
-
 
 *   Is information provided about the software authors to give them credit?
 *   How many/which pieces of software are repeatedly mentioned (and could possibly be defined as critical research infrastructure)?
@@ -110,7 +87,6 @@ Some of the questions we could hope to answer are:
 
 ### **Diagrams / illustrations**
 
-_You can include diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
 
 **_What do we want to see in a data set from different perspectives?_**
 
