@@ -19,10 +19,11 @@ Idea 3 - **Message in e Bottle: _work more effectively with ephemeral teams acro
 
 ### **Participants**
 
-Shoaib Sufi ([shoaib.sufi@software.ac.uk](mailto:shoaib.sufi@software.ac.uk)), Carlos Martinez ([c.martinez@esciencecenter.nl](mailto:c.martinez@esciencecenter.nl)) (scribe), Alessandro Felder ([a.felder@ucl.ac.uk](mailto:a.felder@ucl.ac.uk)) (chair), Emmy Tsang ([e.tsang@elifesciences.org](mailto:e.tsang@elifesciences.org)), Aleksandra Nenadic ([a.nenadic@manchester.ac.uk](mailto:a.nenadic@manchester.ac.uk))
-
-
-
+* Shoaib Sufi ([shoaib.sufi@software.ac.uk](mailto:shoaib.sufi@software.ac.uk)), 
+* Carlos Martinez ([c.martinez@esciencecenter.nl](mailto:c.martinez@esciencecenter.nl)) (scribe), 
+* Alessandro Felder ([a.felder@ucl.ac.uk](mailto:a.felder@ucl.ac.uk)) (chair), 
+* Emmy Tsang ([e.tsang@elifesciences.org](mailto:e.tsang@elifesciences.org)), 
+* Aleksandra Nenadic ([a.nenadic@manchester.ac.uk](mailto:a.nenadic@manchester.ac.uk))
 
 ![A message in e Bottle](../images/cw20-ebottle.jpg)
 
@@ -34,11 +35,9 @@ Original slide at - **_[https://docs.google.com/presentation/d/1GbwxVrWpqw_Nk9Mg
 
 Are you:
 
-
-
-*   A workshop host delivering a session to participants from multiple time zones?
-*   A hackathon organiser facilitating collaborations between newcomers and experienced community members in teams spread across different time zones? 
-*   A conference organising team hoping to virtually deliver keynotes, poster sessions and demos and build a sustainable community?
+* A workshop host delivering a session to participants from multiple time zones?
+* A hackathon organiser facilitating collaborations between newcomers and experienced community members in teams spread across different time zones? 
+* A conference organising team hoping to virtually deliver keynotes, poster sessions and demos and build a sustainable community?
 
 **Message in e bottle** is your solution – a personal, semi-asynchronous, efficient system to facilitate collaborations and improve team productivity across multiple time zones.
 
