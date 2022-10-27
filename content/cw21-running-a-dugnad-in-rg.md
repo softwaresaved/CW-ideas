@@ -1,10 +1,10 @@
 ---
 title: Running a dugnad in a research group
-# author:
-# - Sarah Gibson
-# - Sarah Jaffa
-# - Warrick Ball
-# - Neil Chue Hong
+author:
+- Sarah Gibson
+- Sarah Jaffa
+- Warrick Ball
+- Neil Chue Hong
 year: 2021
 type: hack-ideas
 tags:
