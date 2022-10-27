@@ -9,6 +9,7 @@ author:
 year: 2021
 type: collaborative-ideas
 tags:
+- Covid
 ---
 
 ### CW21 - 2021-03-30
@@ -18,30 +19,24 @@ Oscar - CI15-CW21
 
 ### **Participants**
 
-_Please list the participants here_
+* **Michelle Barker**
 
-**Michelle Barker**
+* **Shoaib Suf**
 
-**Shoaib Suf**
+* **Daniel S Katz**
 
-**Daniel S Katz**
+* **Carina Haupt**
 
-**Carina Haupt**
-
-**Callum Rollo**
-
+* **Callum Rollo**
 
 
 ---
-
-
 
 ### Title: Open Source Covid Analysis of References (OSCAR)
 
 
 ### **Context / Research Domain**
 
-_Please describe the context or research domain to which the problem applies_
 
 Software’s use in the Covid19 pandemic is somewhat hidden but ubiquitous. Understanding the impact of software in the pandemic would give it the credit that software deserves, raise its profile and potentially highlight the software readiness that would help in any future public health emergency.
 
@@ -60,8 +55,6 @@ A [study was undertaken by Nangia and Katz](https://arxiv.org/abs/1706.06527) on
 It would be useful to consider different ways to analyse the dataset, to identify statistics or trends that could illustrate issues such as - the key role software has played in responding to COVID-19 (and lack of recognition of its importance), the issues in citation of research software (and possibly findability and accessibility of the software), methods to identify key software infrastructure.
 
 Some of the questions OSCAR hope to answer are:
-
-
 
 *   Is information provided about the software authors to give them credit?
 *   How many/which pieces of software are repeatedly mentioned (and could possibly be defined as critical research infrastructure)?
@@ -111,3 +104,4 @@ Disability monitoring system - for new members of staff and link disability offi
 ### Licence
 
 These materials (unless otherwise specified) are available under the Creative Commons Attribution 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by/4.0/) of the CC BY 4.0 and the full [legal text](https://creativecommons.org/licenses/by/4.0/legalcode) for further information. 
+
