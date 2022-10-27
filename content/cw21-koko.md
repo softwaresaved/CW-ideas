@@ -9,13 +9,12 @@ author:
 year: 2021
 type: collaborative ideas
 tags:
+- skills
 ---
-
 
 ### CW21 - 2021-03-30
 
 Koko - CI11-CW21
-
 
 ### **Participants**
 
@@ -25,16 +24,10 @@ Koko - CI11-CW21
 *   Leyla Jael G. Castro ([ljgarcia@zbmed.de](mailto:ljgarcia@zbmed.de))
 *   Abhishek Dasgupta   ([abhishek.dasgupta@cs.ox.ac.uk](mailto:abhishek.dasgupta@cs.ox.ac.uk))
 
-    
-
 ---
-
-
-
 
 ## _The Adventurous Architect_ - \
 A Blueprinter for Research Software Skills
-
 
 ### **Context / Research Domain**
 
@@ -58,14 +51,9 @@ At the same time, using the decision tree will help identify gaps in the Carpent
 
 Later, an AI-based recommender system can suggest useful learning paths based on inputs describing a specific research situation: “Hello System, I have this genomics dataset in JSON and want to do reproducible research on it to visualize this-and-that. I have done a Carpentries Git lesson but cannot use Python for this project, what should I learn?”
 
-
 ### **Diagrams / Illustrations**
 
-
-
-
 ![Flow of the Carpentries framework](../images/cw21-carpentries-flow.jpg)
-
 
 
 ### Licence
