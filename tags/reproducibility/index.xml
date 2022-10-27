@@ -9,11 +9,11 @@ Context / Research Domain All research domains which have to contend with/rely o
 Problem Researchers are instructed to use some legacy code written by their team, a third party or even themselves a while ago. The code isn&amp;rsquo;t documented or unit tested.</description></item><item><title>End of Life Plans for Software</title><link>https://softwaresaved.github.io/CW-ideas/cw21-assure-software-sustainability/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-assure-software-sustainability/</guid><description>CW21 - 2021-03-30
 Felix - CI6-CW21
 Participants Eli Chadwick Iain Barrass Alice Minotto Yo Yehudi Context / Research Domain Planning for continuation of dissemination of research outputs is an established part of a research grant application. We frequently see requests for ongoing costs for website hosting, placement of datasets in repositories or hosting of developed code in an online version control system. However, it is less frequent that considerations are made of ongoing technical staff attention to support staff responsible for code sustainability, maintanence, or data updates.</description></item><item><title>Hello world (of CI/CD)</title><link>https://softwaresaved.github.io/CW-ideas/cw21-hello-world-of-ci-cd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-hello-world-of-ci-cd/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Amonette-1943 - HP1-CW21
-Hack Day idea Proposer Sorrel Harriet
-This document should be used to capture the information for a Hack Day Idea.
-Idea name (provisional) This is the provisional name of the Idea, solution or just a title; this can be changed later if a team is formed and you decide on a new team/product name.
-Hello World! (of CI/CD)
-Context / Research Domain Please describe the context or research domain to which the problem applies</description></item><item><title>HowDescribedIs</title><link>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Hopper-1949 - HP12-CW21
+Hack Day idea Proposer Sorrel Harriet Idea name (provisional) Hello World! (of CI/CD)
+Context / Research Domain Software engineering
+Problem Build a Hello World app (but make it support continuous deployment.)
+This hack day idea is more about developing skills, and less about the idea itself.
+I want to gain experience using best practices like TDD and CI/CD, but I never seem to get around to actually doing it.</description></item><item><title>HowDescribedIs</title><link>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Hopper-1949 - HP12-CW21
 Hack Day idea proposer Faruk Diblen, Daniel Garijo, Carlos Martinez, Mathew Bluteau, Paddy McCann
 Slack: #howdescribedis
 This document should be used to capture the information for a Hack Day Idea.
