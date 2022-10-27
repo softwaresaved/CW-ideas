@@ -9,7 +9,7 @@ This repo consists of markdown versions of previous collaborative ideas and hack
 
 To contribute to the repository - either by adding new ideas from previous CWs or to the code to view these ideas - please see the [contributing guide](CONTRIBUTING.md).
 
-This repository is licensed under the MIT license, and all the ideas themselves are CC-BY (this is mentioned at the bottom of each idea).
+This repository is licensed under the MIT license, and most of the ideas themselves are CC-BY (explicitly since CW21 - licensing is mentioned in each idea).
 
 The team that created this was Mario Antonioletti, Heather Turner and Robin Wilson.
 
