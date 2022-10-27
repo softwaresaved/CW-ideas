@@ -67,12 +67,10 @@ _Creating a peer review process for that community similar to the rOpenSci commu
 ![alt_text](../images/graph1.jpg)
 
 
-
-
 ![alt_text](../images/graph2.jpg)
 
 
-[https://towardsdatascience.com/stopping-covid-19-with-misleading-graphs-6812a61a57c9](https://towardsdatascience.com/stopping-covid-19-with-misleading-graphs-6812a61a57c9)
+* https://towardsdatascience.com/stopping-covid-19-with-misleading-graphs-6812a61a57c9
 
 
 ### Licence
