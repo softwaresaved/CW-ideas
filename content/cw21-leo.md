@@ -9,6 +9,8 @@ author:
 year: 2021
 type: collaborative ideas
 tags:
+- collaboration
+- project
 ---
 
 ### CW21 - 2021-03-30
@@ -18,31 +20,20 @@ Leo - CI12-CW21
 
 ### **Participants**
 
-_Please list the participants here_
 
-_Emma Rand emma.rand@york.ac.uk_
-
-_Aida Mehonic_
-
-_Hannah Williams Hannah.Williams@phe.gov.uk_
-
-_Carlos Martinez-Ortiz_
-
-_Flic Anderson  [contact@felicityanderson.co.uk](mailto:contact@felicityanderson.co.uk) _
-
+* _Emma Rand emma.rand@york.ac.uk_
+* _Aida Mehonic_
+* _Hannah Williams Hannah.Williams@phe.gov.uk_
+* _Carlos Martinez-Ortiz_
+* _Flic Anderson  [contact@felicityanderson.co.uk](mailto:contact@felicityanderson.co.uk) _
 
 
 ---
-
-
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all of this hint text (Arial, italic, grey, size 11) once you no longer need it._
-
 
 ### ConnECT ProjECT - an Exciting Collaboration Tool for discovering project similarities
 
 
 ![Connect word cloud](../images/cw21-connect.jpg)
-
 
 
 ### **Context / Research Domain**
@@ -66,7 +57,6 @@ _Lots of individuals/groups working on projects (for example a large funded proj
 _Either a form (useful for non-repository projects) or some sort of automated tagging for remotely hosted repositories (e.g. GitHub repos) which feeds into a dashboard, to visualise commonalities:_
 
 
-
 *   _Topics / domain fields, but not only this (to avoid “it’s not my domain” turn-off)._
 *   _Methods that repositories have in common (e.g. unit testing, particular statistical tests, project management methods)_
 *   _Language/tools similarities (might be able to tie into existing analysis by GitHub of repos for example, but collect this information for projects at other stages or in other formats too)_
@@ -75,7 +65,6 @@ _Either a form (useful for non-repository projects) or some sort of automated ta
 *   _Prompt when starting from scratch - have you seen x?_
 
 _Elements of the solution: (how to break it down for implementation)_
-
 
 
 *   Form to gather data from non-version-controlled projects & save data
@@ -91,8 +80,6 @@ _Elements of the solution: (how to break it down for implementation)_
 
 Possible Gotchas: 
 
-
-
 *   Data security / GDP - contact detail sharing for example
 *   Levels of access & authorisation between projects and institutions
 *   Inter-organisation barriers
@@ -101,9 +88,6 @@ Possible Gotchas:
 
 
 ### **Diagrams / Illustrations**
-
-_You can include one or two diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
-
 
 
 ### Licence
