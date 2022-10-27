@@ -2,7 +2,7 @@
 title: Running a dugnad in a research group
 author:
 - Sarah Gibson
-- Sarah Jaffa
+- Sarah Jaffa
 - Warrick Ball
 - Neil Chue Hong
 year: 2021
