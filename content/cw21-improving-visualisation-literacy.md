@@ -80,10 +80,3 @@ _Creating a peer review process for that community similar to the rOpenSci commu
 These materials (unless otherwise specified) are available under the Creative Commons Attribution 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by/4.0/) of the CC BY 4.0 and the full [legal text](https://creativecommons.org/licenses/by/4.0/legalcode) for further information. 
 
 
-### Team 
-
-
-
-
-
-
