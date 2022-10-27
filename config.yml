@@ -50,7 +50,7 @@ params:
     defaultMode: true
 
     editPost:
-        URL: "https://github.com/softwaresaved/CW-ideas/blob/ideas/"
+        URL: "mailto://mario@epcc.ed.ac.uk?subject=Suggesting changes for "
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
