@@ -45,7 +45,7 @@ At the top of the file, add a metadata section with the following format:
 title: 
 author:
 - 
-year: 2021
+year: 2022
 type: hack day
 tags: 
 ---
@@ -64,7 +64,9 @@ author:
 - Jannetta Steyn
 year: 2021
 type: hack day
-tags: software-carpentry training
+tags:
+- software-carpentry 
+- training
 ---
 ```
 
