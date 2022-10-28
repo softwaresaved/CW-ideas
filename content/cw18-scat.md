@@ -7,7 +7,10 @@ author:
 year: 2018
 type: collaborative-ideas
 tags:
+- stem
+- tool
 ---
+
 Collaborative Ideas for Group A - CI13-CW18
 
 
@@ -18,11 +21,11 @@ Mark Woodbridge - m.woodbridge@imperial.ac.uk
 
 ### **Participants**
 
-Mark Woodbridge, Joanna Leng, Alexander Konovalov
+* Mark Woodbridge, 
+* Joanna Leng, 
+* Alexander Konovalov
 
 ---
-
-
 
 ## SCAT (STEM Career Advising Tool)
 

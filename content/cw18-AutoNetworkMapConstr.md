@@ -5,6 +5,8 @@ author:
 year: 2018
 type: hack-ideas
 tags:
+- network-maps
+- regugees
 ---
 
 Collaborations Workshop 2018 - 2018-03-26
@@ -18,11 +20,8 @@ HP13-CW18
 
 Diana Suleimenova - diana.n.suleimenova@gmail.com
 
-*This document should be used to capture the information for a Hack Day Idea.*
 
 **Context / Research Domain**
-
-*Please describe the context or research domain to which the problem applies*
 
 An idea of constructing an automated network maps initiated from refugee simulation context. However, this can be useful for other scenarios where researchers or practitioners have multiple locations and require to know how these locations are connected and their distances represented visually. There are also other domains that use simulations for animal and bird migrations, as well as vehicle movements that require visual representations (i.e. network maps).
 

@@ -10,6 +10,8 @@ author:
 year: 2018
 type: collaborative-ideas
 tags:
+- provisioning
+- checklists
 ---
 
 ### Collaborations Workshop 2018 - 2018-03-26
@@ -24,15 +26,13 @@ Sam Cox - sam.cox144@gmail.com
 
 ### **Participants**
 
-_Sam Cox, Yo Yehudi, Carina Haupt, Robert Haines, Stephan Druskat, John Robinson_
-
-
+* Sam Cox, Yo Yehudi, 
+* Carina Haupt, 
+* Robert Haines, 
+* Stephan Druskat, 
+* John Robinson
 
 ---
-
-
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all the hint text once you no longer need it._
-
 
 ### ASAP - Automated Software-Assisted Provisioning
 

@@ -5,6 +5,8 @@ author:
 year: 2018
 type: hack-ideas
 tags:
+- citation
+- CFF
 ---
 
 Collaborations Workshop 2018 - 2018-03-26
@@ -19,7 +21,6 @@ Stephan Druskat - stephan.druskat@hu-berlin.de
 
 ---
 
-*This document should be used to capture the information for a Hack Day Idea.*
 
 **Context / Research Domain**
 
@@ -48,7 +49,4 @@ Stephan Druskat - stephan.druskat@hu-berlin.de
    - *provenance*
 - *This activity can also be used to figure out if “tooling” is the omnipotent answer for issues in this space, and whether tooling can be developed to enforce best practices (e.g., from the Software Citation Principles)*
 
-**Diagrams / Illustrations**
-
-*You can include diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable.*
 
