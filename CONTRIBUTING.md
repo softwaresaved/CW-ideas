@@ -47,7 +47,8 @@ author:
 - 
 year: 2022
 type: hack day
-tags: 
+tags:
+- 
 ---
 ```
 
@@ -85,7 +86,13 @@ The file should be saved in the `ideas` directory, with a name formatted such as
 
 ### Images
 
-Any images in the Google document will have to be saved in `static/images/`. These will not show properly in the `main` thread but they should be fine in the `gh-pages` thread.
+Any images in the Google document will have to be saved in `static/images/`. These will not show properly in the `main` thread but they should be fine in the `gh-pages` thread. You can get images to show by putting in a symbolic link (but do not commit this). In the git root directory do:
+
+```bash
+$ ln -s static/images .
+```
+
+
 
 ## Contributing to the website code
 The templates for the website are in `themes/PaperMod/layouts` and the 'special pages' (like the 'By Year' view) are defined as special markdown pages in `content`. Please see the [Hugo documentation](https://gohugo.io/documentation/) for more information on how to edit these.
@@ -95,3 +102,9 @@ The templates for the website are in `themes/PaperMod/layouts` and the 'special 
 The pages can be [hosted on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/).The publishing of the pages is done through GitHub Actions (See the `.github/workflows/gh-pages.yml` in the root directory of the repository). You need ensure that [Action workflows](https://docs.github.com/en/actions/managing-workflow-runs/disabling-and-enabling-a-workflow) have been enabled for your repository on GitHub. Whenever you push content to GitHub it will be processed and published to the `gh-pages` branch which is published on GitHub at:
 
 * [softwaresaved.github.io/CW-ideas/](https://softwaresaved.github.io/CW-ideas/)
+
+If, after a bit of time, things do not appear to have worked check the status of the workflow:
+
+1. Go to the repo: https://github.com/softwaresaved/CW-ideas
+2. Click on the `Actions` on the top menu item: https://github.com/softwaresaved/CW-ideas/actions
+3. If there is no green tick at the top workflow click on it and check what has gone wrong - it will give you an indication of where things went wrong. If the changes corresonding to your commit message have a green tick and you still do not see the changes you may have to search elsewhere.
