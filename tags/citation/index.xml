@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>citation on Collaborations Workshop Ideas &amp; Pitches</title><link>https://softwaresaved.github.io/CW-ideas/tags/citation/</link><description>Recent content in citation on Collaborations Workshop Ideas &amp; Pitches</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://softwaresaved.github.io/CW-ideas/tags/citation/index.xml" rel="self" type="application/rss+xml"/><item><title>HowDescribedIs</title><link>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Hopper-1949 - HP12-CW21
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>citation on Collaborations Workshop Ideas &amp; Pitches</title><link>https://softwaresaved.github.io/CW-ideas/tags/citation/</link><description>Recent content in citation on Collaborations Workshop Ideas &amp; Pitches</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://softwaresaved.github.io/CW-ideas/tags/citation/index.xml" rel="self" type="application/rss+xml"/><item><title>Aligning the Citation File Format and CodeMeta</title><link>https://softwaresaved.github.io/CW-ideas/cw18-cff-codemeta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw18-cff-codemeta/</guid><description>Collaborations Workshop 2018 - 2018-03-26
+Aligning the Citation File Format and CodeMeta -
+HP3-CW18
+Hackday Idea Proposer
+Stephan Druskat - stephan.druskat@hu-berlin.de
+Context / Research Domain
+The domain is: Software Citation Implementations
+Problem
+The Citation File Format (CFF, https://citation-file-format.github.io) is a human-writable and -readable, machine-readable format for the provision of software citation metadata.
+As such, it should be aligned with the evolving standard for providing *general* software metadata, CodeMeta (https://codemeta.github.io). This is because:</description></item><item><title>HowDescribedIs</title><link>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-howdescribedis/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Hopper-1949 - HP12-CW21
 Hack Day idea proposer Faruk Diblen, Daniel Garijo, Carlos Martinez, Mathew Bluteau, Paddy McCann
 Slack: #howdescribedis
 This document should be used to capture the information for a Hack Day Idea.
