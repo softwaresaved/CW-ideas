@@ -24,28 +24,18 @@ Jasper - CI10-CW21
 *   _Emmy Tsang (Scribe)_
 *   _Esther Plomp_
 
-
-
 ---
 
 
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all of this hint text (Arial, italic, grey, size 11) once you no longer need it._
-
-
 ### **Context / Research Domain**
-
-_Please describe the context or research domain to which the problem applies_
 
 Software citation videos (to understand why and how to make your software citable)
 
 
 ### **Problem**
 
-_Description of the problem you are trying to solve_
 
 _Preliminary activity_
-
-
 
 *   Mario: something **visual** is always very appealing, base it on a theme that has been running through the workshop, need to define the right skill set required when pitching the idea, (I have no definite idea)
     *   For software citation - Stephan Druskat is a good person to talk to
@@ -64,13 +54,9 @@ How should we encourage researchers to use mechanisms to cite software and have 
 
 ### **Solution**
 
-_Explanation of the solution to the problem you have identified_
-
 **Create a set of bite-size videos to get people to cite people’s software, to get people to put a CFF file in their repos/releases - with the aim to promote increasing software citability and getting recognition for research software and RSEs**
 
 YouTube videos.
-
-
 
 *   Why make your software citable
 *   How:
@@ -82,13 +68,9 @@ YouTube videos.
 
 Audience:
 
-
-
 *   Academic researcher/RSE that needs the credit to progress in their academic career
 
 Script idea:
-
-
 
 *   Needs to be humanised: All the good stories have a real experience. Can we have a protagonist RSE that spent a lot of time on something and did not get recognition for it? Maybe this is too negative?
 *   Protagonist: researcher working very hard on their research, a major part of their work is creating software 
@@ -100,14 +82,10 @@ Script idea:
 
 Aim to finish a storyboard/script, even if we can’t produce these in 1-hr
 
-
-
 *   3-min
 *   With a cartoon?
 
 Skill sets needed: 
-
-
 
 *   Artist & video designers
 *   a good “story developer”
@@ -128,8 +106,6 @@ Emmy:
 
 ![A distressed student.](../images/student.jpg)
 
-
-
 *   Protagonist: final year PhD student developing software for their research 
 *   Antagonist: PI and thesis committee - “where’s your paper? Why are you spending all this time working on this software?” -> Stressed student, worried about their future and career, wanting to leave academia
 *   CFF comes to the rescue! WIth a CFF file, you can put in metadata about your software and allow others to easily cite your work
@@ -137,11 +113,6 @@ Emmy:
 *   
 
 Prototype based on Emmy’s script: [https://youtu.be/6R1v1bYMhZU](https://youtu.be/6R1v1bYMhZU) 
-
-
-### **Diagrams / Illustrations**
-
-_You can include one or two diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
 
 
 ### Licence

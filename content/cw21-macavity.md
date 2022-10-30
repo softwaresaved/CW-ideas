@@ -9,7 +9,7 @@ author:
 year: 2021
 type: collaborative ideas
 tags:
-- RSE
+- rse
 - skills
 ---
 
@@ -17,19 +17,13 @@ tags:
 
 Macavity - CI13-CW21
 
-
 ### **Participants**
 
 * _Louise Chisholm_
-
 * _Malin Sandstrom (chair?)_
-
 * _Florian Mannseicher_
-
 * _Emma Karoune (scribe)_
-
 * _Andrew Brown (scribe)_
-
 
 ---
 
@@ -77,7 +71,6 @@ _It can be difficult for researchers new to software development to orient thems
 
 ### **Solution**
 
-_Explanation of the solution to the problem you have identified_
 
 **_Provide a ‘front-end’ for RSE-skills resources, resolved into Professional, Technical and Soft skills, to allow people coming from different backgrounds and communities better to find the information they need. _**
 

@@ -7,6 +7,7 @@ type: hack day
 tags:
 - skills
 - reproducibility
+- ci-cd
 ---
 
 

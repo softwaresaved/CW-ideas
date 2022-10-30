@@ -10,6 +10,7 @@ year: 2021
 type: collaborative ideas
 tags:
 - training
+- rse
 ---
 
 ### CW21 - 2021-03-30
@@ -19,23 +20,13 @@ Garfield - CI7-CW21
 
 ### **Participants**
 
-_Please list the participants here_
-
-Matt Cannon - Taylor & Francis (scribe)
-
-Dominic Kempf / RSE, Heidelberg University
-
-Matthew Bluteau / RSE, UK Atomic Energy Authority
-
-Robin Wilson / Freelance - robin@rtwilson.com
-
-Paddy McCann / RSE, University of St Andrews
-
-
+* Matt Cannon - Taylor & Francis (scribe)
+* Dominic Kempf / RSE, Heidelberg University
+* Matthew Bluteau / RSE, UK Atomic Energy Authority
+* Robin Wilson / Freelance - robin@rtwilson.com
+* Paddy McCann / RSE, University of St Andrews
 
 ---
-
-
 
 ### Title: DEPTH: Developer Error/Problem Treasure Hunt!  
 
@@ -66,8 +57,6 @@ The course would be designed to be able to be taken online by an individual alon
 ### **Diagrams / Illustrations**
 
 Our view of how a “treasure hunt” would work:
-
-
 
 
 ![Treasure hunt flow diagram.](../images/treasure-hunt.jpg)

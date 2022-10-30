@@ -42,6 +42,3 @@ The hack day would work on building a list of instructions on how to run a codin
 
 Taking some inspiration from the Repro Hack idea we could build a central page (like [https://reprohack.github.io/reprohack-hq/](https://reprohack.github.io/reprohack-hq/) ) of resources for running coding confession.
 
-
-### **Diagrams / illustrations**
-

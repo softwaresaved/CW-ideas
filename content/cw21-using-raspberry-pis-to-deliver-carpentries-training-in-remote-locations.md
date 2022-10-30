@@ -32,8 +32,6 @@ Lovelace-1842 - HP16-CW21
 
 ### **Idea name (provisional)**
 
-_This is the provisional name of the Idea, solution or just a title; this can be changed later if a team is formed and you decide on a new team/product name._
-
 _Using Raspberry Pis to deliver Carpentries training in remote locations_
 
 

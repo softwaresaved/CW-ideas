@@ -10,6 +10,7 @@ year: 2021
 type: collaborative-ideas
 tags:
 - Covid
+- open-source
 ---
 
 ### CW21 - 2021-03-30
@@ -20,15 +21,10 @@ Oscar - CI15-CW21
 ### **Participants**
 
 * **Michelle Barker**
-
 * **Shoaib Suf**
-
 * **Daniel S Katz**
-
 * **Carina Haupt**
-
 * **Callum Rollo**
-
 
 ---
 

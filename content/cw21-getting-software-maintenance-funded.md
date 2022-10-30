@@ -20,27 +20,17 @@ Bagpuss - CI2-CW21
 
 ### **Participants**
 
-_Sorrel Harriet (Chair)_
-
-_Teri Forey (Scribe)_
-
-_Diego Alonso Álvarez_
-
-_Heather Turner_
-
-_Alexander Konovalov_
-
-_Ilian Todorov_
-
-
+* _Sorrel Harriet (Chair)_
+* _Teri Forey (Scribe)_
+* _Diego Alonso Álvarez_
+* _Heather Turner_
+* _Alexander Konovalov_
+* _Ilian Todorov_
 
 ---
 
 
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all of this hint text (Arial, italic, grey, size 11) once you no longer need it._
-
 **Ideas:**
-
 
 
 *   _Tool or mechanism to add comments to code, or annotating the code with feedback without creating a pull request. Better space to provide guidance. _
@@ -85,14 +75,12 @@ _ _
 
 ### **Context / Research Domain**
 
-_Please describe the context or research domain to which the problem applies_
 
 _Research Software Maintenance Funding. Covers all domains of research._
 
 
 ### **Problem**
 
-_Description of the problem you are trying to solve_
 
 _How to encourage and ensure software maintenance gets sufficiently funded._
 
@@ -103,12 +91,9 @@ _Inspired by various Concordats, e.g. The Concordat to Support the Career Develo
 
 ### **Solution**
 
-_Explanation of the solution to the problem you have identified_
-
 _The solution is to generate models for funding research software maintenance, then to write a white paper that is shared with funders and universities. There would be a commitment or pledge that they would sign to agree that they’d follow these principles: the Research Software Sustainability Concordat. _
 
 _Possible models include:_
-
 
 
 *   _Have a public source of funding (similar to gofundme etc.) that institutions and funders could donate to and the money would be then made available to projects on application._
@@ -120,9 +105,6 @@ _Possible models include:_
 
 
 ### **Diagrams / Illustrations**
-
-_You can include one or two diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
-
 
 ![Funding lines.](../images/funding.jpg)
 
