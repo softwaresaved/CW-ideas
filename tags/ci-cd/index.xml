@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ci-cd on Collaborations Workshop Ideas &amp; Pitches</title><link>https://softwaresaved.github.io/CW-ideas/tags/ci-cd/</link><description>Recent content in ci-cd on Collaborations Workshop Ideas &amp; Pitches</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://softwaresaved.github.io/CW-ideas/tags/ci-cd/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello world (of CI/CD)</title><link>https://softwaresaved.github.io/CW-ideas/cw21-hello-world-of-ci-cd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw21-hello-world-of-ci-cd/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Amonette-1943 - HP1-CW21
+Hack Day idea Proposer Sorrel Harriet Idea name (provisional) Hello World! (of CI/CD)
+Context / Research Domain Software engineering
+Problem Build a Hello World app (but make it support continuous deployment.)
+This hack day idea is more about developing skills, and less about the idea itself.
+I want to gain experience using best practices like TDD and CI/CD, but I never seem to get around to actually doing it.</description></item></channel></rss>
