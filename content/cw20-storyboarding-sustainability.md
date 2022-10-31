@@ -10,7 +10,7 @@ year: 2020
 type: collaborative ideas
 tags:
 - video
-- PI
+- pi
 - training
 ---
 ### A CW20 - 2020-03-31 to 2020-04-02
@@ -20,27 +20,17 @@ Idea 9 - CI9-CW20: Storyboarding Sustainability
 
 ### **Participants**
 
-Emma Rand
-
-Matthew West
-
-Laurence Brown
-
-Mario Antonioletti
-
-Alison Clarke
-
-
-
+* Emma Rand
+* Matthew West
+* Laurence Brown
+* Mario Antonioletti
+* Alison Clarke
 
 ---
-
-
 
 ### **Context / Research Domain**
 
 Many research domains where PIs may not have an awareness of reproducibility and sustainability best practice, may not consider it is relevant to their group or may not know where to start.
-
 
 ### **Problem**
 
@@ -50,8 +40,6 @@ PIs are not always aware of the need to consider sustainability from the start o
 ### **Solution**
 
 We want to produce a storyboard/script for a 10 minute video which can be sent to PIs. The video will:
-
-
 
 *   Make the point that it applies to their research group
 *   Outline clear benefits of working sustainably
@@ -64,10 +52,7 @@ The script and storyboard will be made available on GitHub so that groups or ins
 
 We could ask our CW20 attendee colleagues for horror stories for non-sustainable approaches to give anecdotes.
 
-
 #### References
-
-
 
 *   [https://software.ac.uk/resources/guides-everything/software-evaluation-guide](https://software.ac.uk/resources/guides-everything/software-evaluation-guide)
 *   [https://www.software.ac.uk/software-management-plans](https://www.software.ac.uk/software-management-plans)
@@ -76,19 +61,12 @@ We could ask our CW20 attendee colleagues for horror stories for non-sustainable
 *   [https://www.nature.com/articles/s41559-017-0160](https://www.nature.com/articles/s41559-017-0160)
 
 
-### 
-
-
 ### Diagrams
-
-
-
 
 ![xkcd 242 - the difference](../images/xkcd-242.jpg)
 
 
 The Difference ([https://www.xkcd.com/242/](https://www.xkcd.com/242/))
-
 
 ### Notes
 
