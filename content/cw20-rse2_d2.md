@@ -11,6 +11,7 @@ type: collaborative ideas
 tags:
 - twitter
 - training
+- rse
 ---
 
 ### CW20 - 2020-03-31 to 2020-04-02
@@ -20,37 +21,25 @@ RSE2_D2 - CI10-CW20
 
 ### **Participants**
 
-Yo Yehudi - Software dev and EngD student (Cambridge and Manchester) 
-
-David Perez-Suarez - RSE at UCL
-
-Blair Archibald - 2017 fellow, Postdoc Glasgow (soft spot for Haskell) 
-
-Marion Weinzierl - RSE at Durham University, Not a fellow... yet!
-
-Vahid Garousi - Belfast 
-
-
+* Yo Yehudi - Software dev and EngD student (Cambridge and Manchester) 
+* David Perez-Suarez - RSE at UCL
+* Blair Archibald - 2017 fellow, Postdoc Glasgow (soft spot for Haskell) 
+* Marion Weinzierl - RSE at Durham University, Not a fellow... yet!
+* Vahid Garousi - Belfast 
 
 ---
-
-
 
 ### **Context / Research Domain**
 
 A long time ago, in an office far, far away, RSEs and researchers were developing software and may not be aware of all the good practices and are in need of a bit of motivation.
 
-
 ### **Problem**
 
 The researchers of the universe need help with their software, but where can they turn? Where else but to set their communicators to Twitter to ask for help and advice from the one and only RSE2-D2.
 
-
 ### **Solution**
 
 RSE2-D2 is a twitter bot providing advice about creating/maintaining research software. It provides, amongst other things (see images below):
-
-
 
 *   Automated analysis of github links
     *   “Help @RSE2_D2 analyse! github.com/OpenResearcher/somecoolproject. You’re my only hope”
@@ -83,23 +72,13 @@ RSE2-D2 is a twitter bot providing advice about creating/maintaining research so
 
 ### **Diagrams / Illustrations**
 
-
-
-
 ![The rse_d2 bot in action.](../images/cw20-rse_d2.jpg)
 
 
-
-
-
-
-![alt_text](../images/cw20-rse2_d22.jpg)
-
+![RSE2_D2 helpful tweets.](../images/cw20-rse2_d22.jpg)
 
 
 _R2-D2 image via [https://www.shopdisney.co.uk/disney-store-r2-d2-interactive-action-figure-star-wars-461010647492.html](https://www.shopdisney.co.uk/disney-store-r2-d2-interactive-action-figure-star-wars-461010647492.html) _
-
-
 
 
 _Original brainstorm notes_
@@ -131,8 +110,6 @@ Horror stories blog, piece of art, messy code of piece of poetry
 David: Maybe we could analyse messy code with metrics and recommendations. E.g. shellcheck for shell scripts, give hints to tools (high level code checkers etc) - interaction tools etc. Tips for integrating certain technologies (front end/back end), what might be better in other languages/APIs/Structure. Success stories to drive the guidance. A wizard RSE
 
 Q: What about RSEBot, the twitter bot/ RoboRSE
-
-
 
 *   Detect github links: and recommend  (maybe not all at once, but if they are many they can be delivered one per week....)
     *   adding a readme/license
