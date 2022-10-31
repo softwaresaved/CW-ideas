@@ -12,6 +12,7 @@ type: collaborative ideas
 tags:
 - conference
 - collaborations-workshop
+- covid
 ---
 ### CW20 - 2020-03-31 to 2020-04-02
 
@@ -20,33 +21,18 @@ tags:
 
 ### **Participants**
 
-_Please list the participants here (please use full names)._
-
-Emily Lewis
-
-Esther Asef
-
-Radovan Bast
-
-Bezaye Tesfaye
-
-Neil Chue Hong
-
-Richard Darst
-
-
+* Emily Lewis
+* Esther Asef
+* Radovan Bast
+* Bezaye Tesfaye
+* Neil Chue Hong
+* Richard Darst
 
 ---
 
 
-_This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4. Don’t delete the details at the top of the document but you should delete all the hint text (grey, Arial 11, italic) once you no longer need it._
-
-_                          _
-
-
 ### **Context / Research Domain**
 
-_Please describe the context or research domain to which the problem applies_
 
 When the COVID-19 lockdown restrictions lift, we will see a return to people wanting to restart in-person events whilst others will want to continue the online interactions. The challenge will be to create a combination of guidance and tools to help run events when we have mixed online and in-person interaction, to make sure we don’t introduce new issues? This will apply to most research domains.
 
@@ -66,13 +52,9 @@ How will we move offline again? When we have mixed online and in-person, how do 
 
 ### Solut**ion**
 
-_Explanation of the solution to the problem you have identified_
-
 A guide for people running events in the future, with pointers to existing materials and tools. The guide would be open for all to contribute to.
 
 This would include:
-
-
 
 *   Templates for different types/formats of meetings and events: help sessions, teaching sessions, closed / limited community workshops, open conferences 
 *   Repository of useful icebreakers that work 
@@ -84,8 +66,6 @@ This would include:
 *   Lessons learned from other communities, e.g. online gaming broadcasts
 
 It would also ensure that we took and combined the parts of each conferencing paradigm we most liked:
-
-
 
 *   Conferencing 1.0 (traditional in-person):
 *   Coffee breaks
@@ -101,30 +81,19 @@ It would also ensure that we took and combined the parts of each conferencing pa
 
 We would also do a “literature review” to see if:
 
-
-
 *   Work on this already exists? 
     *   E.g. Lessons learned from Mozilla 
 *   People already working on this? 
 *   We should be contributing this elsewhere?
 
-
 ### **Diagrams / Illustrations**
-
-_You can include one or two diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
-
-
 
 
 ![The future of conferences?](../images/cw20-conf.jpg)
 
-
-
 ### Additional Notes
 
 How is COVID-19 changing the way we’ll be running events and training after lockdown 
-
-
 
 *   Slack vs Twitter: Slack better for chatting, don’t have to think so much about publishing (as it is for Twitter), more like a coffee room chat
 *   But you don’t want yet another channel
@@ -138,8 +107,6 @@ How is COVID-19 changing the way we’ll be running events and training after lo
 *   How to allow “outside” participants to participate (Observers vs participants?)
 
 _Description of the problem you are trying to solve_
-
-
 
 *   Esther: how to reach out to other researchers, especially when you can’t meet face to face. Thinking about an open consultation hour online.
     *   What you wish to see, how to advertise and prepare
@@ -159,15 +126,11 @@ Resources from Carpentries Thread(2020-03-12 [discuss] Is COVID-19 virus demandi
 
 Carpentries collecting more info:
 
-
-
 *   [Quick Tips for Teaching and Learning Online by The Carpentries Community - GitHub](https://github.com/carpentries/conversations/issues/24)
 *   [Tips for Teaching and Learning Online by The Carpentries Community - Google Doc](https://docs.google.com/document/d/1MdmrNn5g2oa2AA6EGYZhyDx-O_YOoH_HqNGsmP6LKIo/edit#heading=h.bns84753wwhw)
 *   [Greg Wilson: online teaching Q&A](https://education.rstudio.com/blog/2020/03/online-teaching-qa/) 
 
 Code Refinery manuals
-
-
 
 *   [https://github.com/coderefinery/manuals/blob/master/online-training.md](https://github.com/coderefinery/manuals/blob/master/online-training.md)
 *   Run both events and help sessions
@@ -177,8 +140,6 @@ Code Refinery manuals
 *   Advertise via local partners, subject librarians, friends & family, e-mail lists
 
 Need to adjust speed of courses - we’ll need to see how this goes in practice.
-
-
 
 *   Will people be able to follow along with live coding
 *   Will exercises take longer

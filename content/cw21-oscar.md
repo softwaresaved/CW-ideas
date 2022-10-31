@@ -9,7 +9,7 @@ author:
 year: 2021
 type: collaborative-ideas
 tags:
-- Covid
+- covid
 - open-source
 ---
 
