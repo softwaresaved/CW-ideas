@@ -81,16 +81,16 @@ The actual *solution* might be a standardised framework/guide similar to [The Tu
 
 ### Discussion Notes:
 
-**Eli**: Interacts with biology (e.g. `bioconda`) and wonders how we can integrate this into physics eco-system. Uses infrastructure to deploy to “Galaxy” and therefore has to use `conda`.
-**Jiada**: Uses different software packager to include more software than just conda.
+**Eli**: Interacts with biology (e.g. `bioconda`) and wonders how we can integrate this into physics eco-system. Uses infrastructure to deploy to “Galaxy” and therefore has to use `conda`.<br/>
+**Jiada**: Uses different software packager to include more software than just conda.<br/>
 
-**Juncheng**: Different project proposal about compatibility of complex software dependencies. Problem is that small groups don’t have enough resources to take on the scale of this problem. They want to use differents software features together, but this is difficult to achieve, since different softwares have different dependencies.
-**Jiada**: How do you put them together?
-**Juncheng**: They create different environments for the softwares but combining them is impossible.
-**Eli**: Has used containers for getting a single environment to work but not to resolve dependencies.
-**Jiada**: Different containers for different dependencies wastes resources in the communication of these containers.
+**Juncheng**: Different project proposal about compatibility of complex software dependencies. Problem is that small groups don’t have enough resources to take on the scale of this problem. They want to use differents software features together, but this is difficult to achieve, since different softwares have different dependencies.<br/>
+**Jiada**: How do you put them together?<br/>
+**Juncheng**: They create different environments for the softwares but combining them is impossible.<br/>
+**Eli**: Has used containers for getting a single environment to work but not to resolve dependencies.<br/>
+**Jiada**: Different containers for different dependencies wastes resources in the communication of these containers.<br/>
 
-**Jiada**: Does anyone know how to guarantee code quality?
+**Jiada**: Does anyone know how to guarantee code quality?<br/>
 **Aman**: Two ways:
 
 1. Code Reviews
