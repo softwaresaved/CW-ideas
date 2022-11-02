@@ -8,7 +8,7 @@ author:
 - Matthew Bluteau
 - Mario Antonioletti
 year: 2022
-type: hack day
+type: collaborative-ideas
 tags:
 - rse
 - code-review
