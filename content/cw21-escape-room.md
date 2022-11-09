@@ -4,7 +4,7 @@ author:
 - Laura Carter
 - Thibault Lestang
 year: 2021
-type: hack day
+type: hack-day
 tags:
 - interdisciplinary
 - training

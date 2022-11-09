@@ -3,7 +3,7 @@ title: Tools to recognise underlying software infrastructure visible and funded
 author:
 - Louise Chisholm
 year: 2021
-type: hack day
+type: hack-day
 tags:
 - credit
 - funding

@@ -7,7 +7,7 @@ author:
 - Mathew Bluteau
 - Paddy McCann
 year: 2021
-type: hack day
+type: hack-day
 tags:
 - tool
 - extension

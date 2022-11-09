@@ -7,7 +7,7 @@ author:
 - Talia Caplan
 - Jannetta Steyn
 year: 2021
-type: hack day
+type: hack-day
 tags:
 - software-carpentry
 - training

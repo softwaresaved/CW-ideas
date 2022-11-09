@@ -4,7 +4,7 @@ author:
 - Neil Chue Hong
 - Stephan Druskat
 year: 2021
-type: hack day
+type: hack-day
 tags:
 - data-analysis
 - research

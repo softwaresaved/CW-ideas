@@ -4,7 +4,7 @@ author:
 - Emma Karoune
 - Malin Sandstrom
 year: 2021
-type: hack day
+type: hack-day
 tags:
 - credit
 - tool

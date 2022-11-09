@@ -3,7 +3,7 @@ title: Hello world (of CI/CD)
 author:
 - Sorrel Harriet
 year: 2021
-type: hack day
+type: hack-day
 tags:
 - skills
 - reproducibility

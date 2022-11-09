@@ -7,7 +7,7 @@ author:
 - Anne Lee Steele
 - Jez Copecw
 year: 2022
-type: hack day
+type: hack-day
 tags: 
 - glossaries
 ---

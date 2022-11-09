@@ -7,7 +7,7 @@ author:
 - Frances Cooper
 - Tania Allard
 year: "2020"
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - research
 - data-analysis
