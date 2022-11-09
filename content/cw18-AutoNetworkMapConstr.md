@@ -6,7 +6,7 @@ year: 2018
 type: hack-ideas
 tags:
 - network-maps
-- regugees
+- refugees
 ---
 
 Collaborations Workshop 2018 - 2018-03-26
