@@ -7,7 +7,7 @@ author:
 - Marion Weinzierl
 - Vahid Garousi
 year: 2020
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - twitter
 - training

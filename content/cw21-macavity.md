@@ -7,7 +7,7 @@ author:
 - Emma Karoune
 - Andrew Brown
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - rse
 - skills

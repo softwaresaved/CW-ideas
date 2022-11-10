@@ -7,7 +7,7 @@ author:
 - Emmy Tsang 
 - Aleksandra Nenadic 
 year: 2020
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - team-work
 - collaboration

@@ -7,7 +7,7 @@ author:
 - Robin Wilson 
 - Paddy McCann
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - training
 - rse

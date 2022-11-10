@@ -8,7 +8,7 @@ author:
 - Reka Solymosi
 - Iain Barrass
 year: 2020
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - training
 ---

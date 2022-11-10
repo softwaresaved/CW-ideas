@@ -7,7 +7,7 @@ author:
 - Mario Antonioletti
 - Alison Clarke
 year: 2020
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - video
 - pi

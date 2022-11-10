@@ -6,7 +6,7 @@ author:
 - Alice Minotto
 - Yo Yehudi
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - sustainability
 - reproducibility

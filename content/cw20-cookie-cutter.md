@@ -8,7 +8,7 @@ author:
 - Jo Leng
 - Mateusz Kuzak
 year: "2020"
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - training
 - guidance

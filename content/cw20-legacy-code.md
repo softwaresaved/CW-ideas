@@ -7,7 +7,7 @@ author:
 - Raniere Silva
 - Philipp Boersch-Supan
 year: 2020
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - legacy-code
 - training

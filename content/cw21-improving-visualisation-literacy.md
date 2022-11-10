@@ -7,7 +7,7 @@ author:
 - Will Furnass
 - Patricia Herterich
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - training
 - visualisation

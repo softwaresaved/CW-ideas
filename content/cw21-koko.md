@@ -7,7 +7,7 @@ author:
 - Leyla Jael G. Castro
 - Abhishek Dasgupta
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - skills
 - training

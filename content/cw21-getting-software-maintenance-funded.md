@@ -8,7 +8,7 @@ author:
 - Alexander Konovalov
 - Ilian Todorov
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - funding
 ---

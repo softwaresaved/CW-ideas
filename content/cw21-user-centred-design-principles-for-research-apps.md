@@ -6,7 +6,7 @@ author:
 - Jez Cope
 - Kirsty Pringle
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - training
 ---

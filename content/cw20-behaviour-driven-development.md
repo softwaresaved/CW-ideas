@@ -7,7 +7,7 @@ author:
 - Matthew Bluteau
 - Steve Crouch
 year: 2020
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - notebooks
 - testing

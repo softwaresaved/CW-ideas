@@ -6,7 +6,7 @@ author:
 - Emmy Tsang
 - Esther Plomp
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - video
 - training

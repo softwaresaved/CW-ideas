@@ -8,7 +8,7 @@ author:
 - Vicky Hellon
 - Katy Brown
 year: 2022
-type: collaborative ideas
+type: collaborative-ideas
 tags: 
 - biology
 - biological-sciences

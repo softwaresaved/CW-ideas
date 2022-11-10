@@ -7,7 +7,7 @@ author:
 - Carlos Martinez-Ortiz
 - Flic Anderson
 year: 2021
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - collaboration
 - project

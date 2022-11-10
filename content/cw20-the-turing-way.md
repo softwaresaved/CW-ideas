@@ -7,7 +7,7 @@ author:
 - Jurriaan H.Spaaks
 - Sam Mangham
 year: 2020
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - training
 - remote

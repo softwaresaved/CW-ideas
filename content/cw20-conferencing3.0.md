@@ -8,7 +8,7 @@ author:
 - Neil Chue Hong
 - Richard Darst
 year: "2020"
-type: collaborative ideas
+type: collaborative-ideas
 tags:
 - conference
 - collaborations-workshop
