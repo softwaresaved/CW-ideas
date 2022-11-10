@@ -1,0 +1,27 @@
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+<main id="main">
+<br>
+  <div>
+  <h1 id="title">{{ .Title }}</h1>
+  <br>
+   Page to test various bits of functionality.
+  <ol>
+  {{ range .Pages }}
+   <li> {{ . }}</li>
+  {{ end }}
+  </ol>
+<hr>
+  <ol>
+   {{ range $.Site.AllPages }}
+    <li> {{ . }} </li>
+   {{ end }}
+  </ol>
+  </div>
+</main>
+{{ end }}
