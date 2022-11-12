@@ -6,11 +6,52 @@
         {{ end }}
       </header>
 <main id="main">
+   Page to test various bits of functionality.<br>
+<ul>
+<!-- stackoverflow 68819659 -->
+{{ range .Params.author }}
+<li> author {{ . }}</li>
+{{end}}
+</ul>
+<br>
+<hr>
+<br>
+Nested list
+
+{{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
+<h3>{{ .Key }}</h3>
+    <br>
+    {{ range (.Pages.GroupByParam "type").Reverse}}
+    <h4>{{ .Key }}</h4>
+        <br>
+        <ul>
+        {{range .Pages}}
+           <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+        {{end}}
+        </ul>
+        <br>
+    {{end}}
+{{end}}
+
+<br>
+<hr>
+<br>
+     {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
+       <h3>{{ .Key }}</h3>
+      <div>
+          <ul>
+        {{range .Pages}}
+<li><a href="{{.Permalink}}">{{.}}</a></li>
+{{end}}
+</ul>
+      </div>
+    </br>
+{{ end }}
+<hr>
 <br>
   <div>
   <h1 id="title">{{ .Title }}</h1>
   <br>
-   Page to test various bits of functionality.
   <ol>
   {{ range .Pages }}
    <li> {{ . }}</li>
