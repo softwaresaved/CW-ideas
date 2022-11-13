@@ -16,9 +16,6 @@
 <br>
 <hr>
 <br>
-Page to test the creation of content.
-<br>
-<br>
 {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
 <h3>{{ .Key }}</h3>
     {{ range (.Pages.GroupByParam "type").Reverse}}
