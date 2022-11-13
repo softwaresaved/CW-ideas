@@ -30,37 +30,6 @@ Page to test the creation of content.
      </dl>
     {{end}}
 {{end}}
-
-<br>
-<hr>
-<br>
-     {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
-       <h3>{{ .Key }}</h3>
-      <div>
-          <ul>
-        {{range .Pages}}
-<li><a href="{{.Permalink}}">{{.}}</a></li>
-{{end}}
-</ul>
-      </div>
-    </br>
-{{ end }}
-<hr>
-<br>
-  <div>
-  <h1 id="title">{{ .Title }}</h1>
-  <br>
-  <ol>
-  {{ range .Pages }}
-   <li> {{ . }}</li>
-  {{ end }}
-  </ol>
-<hr>
-  <ol>
-   {{ range $.Site.AllPages }}
-    <li> {{ . }} </li>
-   {{ end }}
-  </ol>
   </div>
 </main>
 {{ end }}
