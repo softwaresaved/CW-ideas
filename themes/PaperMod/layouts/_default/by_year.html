@@ -9,11 +9,13 @@
       {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
        <h3>{{ .Key }}</h3>
       <div>
-          <ul>
-        {{range .Pages}}
-<li><a href="{{.Permalink}}">{{.Title}}</a></li>
-{{end}}
-</ul>
+      {{ range (.Pages.GroupByParam "type").Reverse}}
+      <dl>
+         <dt><strong>{{ .Key }}</strong></dt>
+             {{range .Pages}}
+                <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+             {{end}}
+       </dl>
       </div>
     </br>
 {{ end }}
