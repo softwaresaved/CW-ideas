@@ -16,20 +16,18 @@
 <br>
 <hr>
 <br>
-Nested list
-
+Page to test the creation of content.
+<br>
+<br>
 {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
 <h3>{{ .Key }}</h3>
-    <br>
     {{ range (.Pages.GroupByParam "type").Reverse}}
-    <h4>{{ .Key }}</h4>
-        <br>
-        <ul>
-        {{range .Pages}}
-           <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-        {{end}}
-        </ul>
-        <br>
+    <dl>
+       <dt><strong>{{ .Key }}</strong></dt>
+           {{range .Pages}}
+              <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+           {{end}}
+     </dl>
     {{end}}
 {{end}}
 
