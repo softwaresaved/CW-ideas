@@ -86,7 +86,4 @@ menu:
           name: Search
           url: /search
           weight: 30
-        # - identifier: example
-        #   name: example.org
-        #   url: https://example.org
-        #   weight: 30
+
