@@ -52,7 +52,7 @@ tags:
 ---
 ```
 
-This should be filled in, so that it looks like this example:
+There is a `template.md` which contains the above - you can copy this to the new file name but remove the `draft: true` line from the metadata otherwise your addition will not be displayed. This should be filled in, so that it looks like this example:
 
 ```yaml
 ---
