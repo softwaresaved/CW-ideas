@@ -7,4 +7,7 @@ Context / Research Domain
 The domain is: Software Citation Implementations
 Problem
 The Citation File Format (CFF, https://citation-file-format.github.io) is a human-writable and -readable, machine-readable format for the provision of software citation metadata.
-As such, it should be aligned with the evolving standard for providing *general* software metadata, CodeMeta (https://codemeta.github.io). This is because:</description></item></channel></rss>
+As such, it should be aligned with the evolving standard for providing *general* software metadata, CodeMeta (https://codemeta.github.io). This is because:</description></item><item><title>CFF in the wild - analysing software citation metadata file usage</title><link>https://softwaresaved.github.io/CW-ideas/cw22-cff-in-the-wild/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw22-cff-in-the-wild/</guid><description>CW22 - 2022-04-04 Hack Day Idea proposer Stephan Druskat
+Hack Day Idea title (provisional) CFF in the wild - analysing software citation metadata file usage
+Context and/or research domain Software citation affects all domains producing research software.
+Problem The Citation File Format (CFF) enables authors of research software to provide the citation metadata for their software in a human- and machine-readable way, so that their software can be cited correctly.</description></item></channel></rss>
