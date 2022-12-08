@@ -30,11 +30,7 @@ Software citation affects all domains producing research software.
 
 The [Citation File Format (CFF)](https://citation-file-format.github.io/) enables authors of research software to provide the citation metadata for their software in a human- and machine-readable way, so that their software can be cited correctly.
 
-Recently, some platforms and tools have integrated CFF to work with software citation metadata, most prominently GitHub, who use it to present citation information for repositories in their UI (see 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Fig. 1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Fig. 1](#heading=h.njbyweqpatro)). This led to quite a bit of uptake of the format: as of today, there are over **[7,000 CITATION.cff files on GitHub](https://github.com/sdruskat/cfftracker)**. Informally at least, it is therefore safe to assume that people actually find this helpful.
+Recently, some platforms and tools have integrated CFF to work with software citation metadata, most prominently GitHub, who use it to present citation information for repositories in their UI (see Fig. 1 below. This led to quite a bit of uptake of the format: as of today, there are over **[7,000 CITATION.cff files on GitHub](https://github.com/sdruskat/cfftracker)**. Informally at least, it is therefore safe to assume that people actually find this helpful.
 
 The question is: **helpful in doing what exactly**? Are people using CFF files to enable the citation of their software in the source code repository directly? Or are they pointing to a DOI of a more formally published version on, e.g., Zenodo? Or a DOI pointing to the software project as a whole (a parent DOI, or “concept” DOI as it’s called on Zenodo)? Or are people using CFF files to point to a paper, either by using the `preferred-citation` field in CFF, or by hacking the format to provide a DOI to a paper as if it was a DOI to the software? Do CFF files reflect the state of the repository (is the last release made citable?), are they maintained at all? Do people provide other metadata files alongside CFF files?
 
