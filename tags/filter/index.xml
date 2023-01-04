@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>filter on Collaborations Workshop Ideas &amp; Pitches</title><link>https://softwaresaved.github.io/CW-ideas/tags/filter/</link><description>Recent content in filter on Collaborations Workshop Ideas &amp; Pitches</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://softwaresaved.github.io/CW-ideas/tags/filter/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloading and filtering datasets</title><link>https://softwaresaved.github.io/CW-ideas/cw18-downloading-filtering-data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://softwaresaved.github.io/CW-ideas/cw18-downloading-filtering-data/</guid><description>Collaborations Workshop 2018 - 2018-03-26 Smarter data sources - Group L - CI8-CW18
+Reporter Aleksandra Nenadic - anenadic@gmail.com
+Participants Vincent Knight
+Thibault Clérice
+Henry Wilde
+Anastasis Georgoulas
+Adrian-Tudor Panescu
+Aleksandra Nenadic
+Tobias Schlauch
+Louise Brown
+Martin O&amp;rsquo;Reilly
+Robert Maftei
+Context / Research Domain Any project that needs to download and filter datasets.
+Problem Many current datasets, especially very large ones provide limited ability to query / filter the data on all properties / dimensions it contains and metadata about what the data means (data definitions, units etc) are often held separately from the data itself and not findable from the data source.</description></item></channel></rss>
