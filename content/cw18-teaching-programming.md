@@ -8,11 +8,10 @@ author:
 - Becky Arnold
 - Kenneth Hansen
 year: 2018
-type: collacorative-ideas
+type: collavorative-ideas
 tags:
 - teaching
 - programming
-draft: true
 ---
 
 <hr>

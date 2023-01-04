@@ -10,7 +10,7 @@ author:
 - Alejandra Gonzalez-Beltran
 - Raquel Alegre
 year: 2018
-type: collacorative-ideas
+type: collavorative-ideas
 tags:
 - rse
 - project

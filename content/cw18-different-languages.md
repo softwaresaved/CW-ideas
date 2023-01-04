@@ -7,7 +7,7 @@ author:
 - Raquel Alegre
 - Mike Jackson
 year: 2018
-type: collacorative-ideas
+type: collavorative-ideas
 tags:
 - research-software
 - training

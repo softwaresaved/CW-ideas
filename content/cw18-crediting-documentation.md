@@ -8,7 +8,7 @@ author:
 - Richard Adams
 - Stephen Dowsland
 year: 2018
-type: collacorative-ideas
+type: collavorative-ideas
 tags:
 - documentation
 - credit

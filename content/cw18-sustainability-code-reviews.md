@@ -8,7 +8,7 @@ author:
 - Naomi Penfold
 - Rinku Gupta
 year: 2018
-type: collacorative-ideas
+type: collavorative-ideas
 tags:
 - code-reviews
 - software-sustainability

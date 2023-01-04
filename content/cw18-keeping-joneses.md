@@ -6,7 +6,7 @@ author:
 - Andrew Walker
 - Shoaib Sufi
 year: 2018
-type: collacorative-ideas
+type: collavorative-ideas
 tags:
 - citations
 - papers

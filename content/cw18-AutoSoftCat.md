@@ -6,7 +6,7 @@ author:
 - Alexander Struck
 - Carloine Jay
 year: 2018
-type: collacorative-ideas
+type: collavorative-ideas
 tags:
 - discoverability
 - reuse
