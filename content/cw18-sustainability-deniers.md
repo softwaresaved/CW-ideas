@@ -9,7 +9,7 @@ author:
 year: 2018
 type: collaborative-ideas
 tags:
-- 
+- sustainability
 ---
 
 <hr>
