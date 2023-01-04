@@ -66,10 +66,10 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: bytest
-          name: Test
-          url: /bytest/
-          weight: 05
+        #- identifier: bytest
+        #  name: Test
+        #  url: /bytest/
+        #  weight: 05
         - identifier: tags
           name: Tags
           url: /tags/
