@@ -1,5 +1,5 @@
 ---
-title: Keeping up with the Joneses: Providing evidence for software and data citations in published papers
+title: "Keeping up with the Joneses: Providing evidence for software and data citations in published papers"
 author:
 - Kirstie Whitaker
 - Ilektra Christidi
