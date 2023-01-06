@@ -29,6 +29,7 @@ params:
     hideSummary: false
     showtoc: false
     tocopen: false
+    buildDrafts: false
 
     assets:
         # disableHLJS: true # to disable highlight.js
