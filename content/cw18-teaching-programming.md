@@ -8,7 +8,7 @@ author:
 - Becky Arnold
 - Kenneth Hansen
 year: 2018
-type: collavorative-ideas
+type: collaborative-ideas
 tags:
 - teaching
 - programming

@@ -8,7 +8,7 @@ author:
 - Sam Mangham
 - Robin Long
 year: 2018
-type: collavorative-ideas
+type: collaborative-ideas
 tags:
 - jupyterlab
 - teaching

@@ -7,7 +7,7 @@ author:
 - Ed Bennett
 - Stephen Crouch
 year: 2018
-type: collavorative-ideas
+type: collaborative-ideas
 tags:
 - ifortran
 - lint

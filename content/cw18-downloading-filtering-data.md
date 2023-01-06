@@ -12,7 +12,7 @@ author:
 - Martin O'Reilly
 - Robert Maftei
 year: 2018
-type: collavorative-ideas
+type: collaborative-ideas
 tags:
 - data
 - download

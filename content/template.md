@@ -2,8 +2,8 @@
 title: 
 author:
 - 
-year: 2022
-type: hack-ideas
+year: 2020
+type: hack-day
 tags:
 - 
 draft: true
