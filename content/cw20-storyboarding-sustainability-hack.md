@@ -98,18 +98,17 @@ Tell a story: follow a PI through their journey to working more sustainably. Gra
   <tr>
    <td colspan="2" >INTRO
 <ul>
-<li>Dreadful situation with professor receiving peer-review requesting modification of previous figures for which there’s no reproducible code.
+<li>Dreadful situation with professor receiving peer-review requesting modification of previous figures for which there’s no reproducible code.</li>
 <li>Checklist of questions like:  
-<ul>
-<li>Do you collect/ record/ recode/ analyse/ report on data electronically?</li>
-<li>Do you spend lots of time repeating tasks manually or answering the same questions over and over?</li>
-<li>“Have you spent hours trying to locate your or your lab’s or students’ files?</li>
-<li>Do you always know which is the most recent version of your paper/graphs/code?</li>
-<li>Have you spent a day trying to re-do some analysis or change a graph in response to reviewer comments?
-</li> 
-  </ul></li>
-<li>If you answered yes to any of the above, join the “new wave” of open and sustainable research</li>
-</ul>
+    <ul>
+    <li>Do you collect/ record/ recode/ analyse/ report on data electronically?</li>
+    <li>Do you spend lots of time repeating tasks manually or answering the same questions over and over?</li>
+    <li>“Have you spent hours trying to locate your or your lab’s or students’ files?</li>
+    <li>Do you always know which is the most recent version of your paper/graphs/code?</li>
+    <li>Have you spent a day trying to re-do some analysis or change a graph in response to reviewer comments?</li> 
+      </ul></li>
+    <li>If you answered yes to any of the above, join the “new wave” of open and sustainable research</li>
+    </ul>
 </li>
 </ul>
    </td>
@@ -123,7 +122,7 @@ Tell a story: follow a PI through their journey to working more sustainably. Gra
 <li>Reusability for saving time and money</li>
 <li>Increasing impact (REF), increasing citations and visibility, raising personal/group profile</li>
 <li>Increased connections & networks, more collaborations, not working in isolated silos</li> 
-</ul>
+</ul></li> 
 <li>For the greater good of society and advancing research in general</li>
 </ul>
    </td>
@@ -228,8 +227,7 @@ Gaining new skills, increased confidence and personal development.</p>
    </td>
    <td>SMALL STEPS YOU CAN TAKE NOW
 <ul>
-<li>Take a look at GitHub.com
-</li>
+<li>Take a look at GitHub.com</li>
 </ul>
    </td>
   </tr>
