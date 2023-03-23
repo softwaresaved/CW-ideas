@@ -27,6 +27,7 @@ _Carpentries-style Lesson on R’s Bug Tracking Process_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fUcOcrhI0Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 #### **Context and/or research domain**
 
 _Software sustainability._
@@ -38,8 +39,8 @@ _We have been conducting monthly ‘[Collaboration Campfires](https://contributo
 
 #### **Solution**
 
-_To make the Collaboration Campfires material sustainable and available to the future learners, we want to build reusable beginner-friendly lessons for contribution to the R project, using the materials that we have been creating for the campfires and host them on our webpage ([https://contributor.r-project.org/](https://contributor.r-project.org/)). We propose to use the [Carpentries lesson template](https://github.com/carpentries/styles/) as demonstrated by their [example lesson](https://github.com/carpentries/lesson-example). For this hack day, we will convert the material from two Collaboration Campfires: “[Explore R’s Bug-tracking Process](https://developer.r-project.org/etherpad/p/collaboration_campfire_february)” and “[How to Help Review R Bug Reports](https://docs.google.com/document/d/1rAerV1_Kw_lX_M4XwqEdIxvakYfREarBsfLmoK0vUEk/edit)” into a single lesson. \
- \
+_To make the Collaboration Campfires material sustainable and available to the future learners, we want to build reusable beginner-friendly lessons for contribution to the R project, using the materials that we have been creating for the campfires and host them on our webpage ([https://contributor.r-project.org/](https://contributor.r-project.org/)). We propose to use the [Carpentries lesson template](https://github.com/carpentries/styles/) as demonstrated by their [example lesson](https://github.com/carpentries/lesson-example). For this hack day, we will convert the material from two Collaboration Campfires: “[Explore R’s Bug-tracking Process](https://developer.r-project.org/etherpad/p/collaboration_campfire_february)” and “[How to Help Review R Bug Reports](https://docs.google.com/document/d/1rAerV1_Kw_lX_M4XwqEdIxvakYfREarBsfLmoK0vUEk/edit)” into a single lesson. 
+
 We will be using RStudio to create these lessons (as described in [The Carpentries Workbench](https://carpentries.github.io/sandpaper/) documentation) and GitHub Pages for deployment ([GitHub repo](https://github.com/r-devel/r-bug-tracking-lesson)). We will use the Collaborations Workshop 2022 Slack (#quail), Zoom and GitHub issues for communications._
 
 **Diagrams / illustrations**
