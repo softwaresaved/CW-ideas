@@ -35,6 +35,7 @@ params:
     showtoc: false
     tocopen: false
     buildDrafts: false
+    enableGitInfo: true
 
     assets:
         # disableHLJS: true # to disable highlight.js
