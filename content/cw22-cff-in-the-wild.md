@@ -26,6 +26,11 @@ CFF in the wild - analysing software citation metadata file usage
 
 Software citation affects all domains producing research software.
 
+#### Hack day demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dxlELPJDOtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 #### **Problem**
 
 The [Citation File Format (CFF)](https://citation-file-format.github.io/) enables authors of research software to provide the citation metadata for their software in a human- and machine-readable way, so that their software can be cited correctly.
