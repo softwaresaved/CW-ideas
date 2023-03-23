@@ -34,6 +34,11 @@ tags:
 ![Text art of a bow with an arrow.](../images/cw22-cupid-hack.png)
 
 
+#### **Hack Day Demo**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_8MJkkGwnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 #### **Context and/or research domain**
 
 Successful multidisciplinary research can require the e writing and maintenance of complex software.
