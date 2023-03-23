@@ -23,6 +23,9 @@ _Saranjeet Kaur Bhogal, Heather Turner_
 _Carpentries-style Lesson on R’s Bug Tracking Process_
 
 
+#### **Hack Day Pitch**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fUcOcrhI0Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 #### **Context and/or research domain**
 
 _Software sustainability._
