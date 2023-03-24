@@ -9,33 +9,41 @@
        {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
           <h3>{{ .Key }}</h3>
 	      {{ range (.Pages.GroupByParam "type").Reverse}}
-              <div>
-               {{ if eq .Key "hack-day" }}
-                <dl>
-                   <dt><strong>{{ .Key }}</strong></dt>
-                      {{range .Pages}}
-                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
-                      {{end}}
-                 </dl>
-                 {{ end }}
-               {{ if eq .Key "hack-ideas" }}
-                <dl>
-                   <dt><strong>{{ .Key }}</strong></dt>
-                      {{range .Pages}}
-                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
-                      {{end}}
-                 </dl>
-                 {{ end }}
-                 {{ if eq .Key "collaborative-ideas" }}
+                 {{ if eq .Key "hack-day" }}
+                <div>
                   <dl>
+                     <dt><strong>{{ .Key }}</strong></dt>
+                        {{range .Pages}}
+                           <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+                        {{end}}
+                   </dl>
+                   </div>
+                   {{ end }}
+                 {{ end }}
+	       {{ range (.Pages.GroupByParam "type").Reverse}}
+                 {{ if eq .Key "hack-ideas" }}
+                <div>
+                 <dl>
+                   <dt><strong>{{ .Key }}</strong></dt>
+                      {{range .Pages}}
+                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+                      {{end}}
+                 </dl>
+                 </div>
+                 {{ end }}
+                 {{ end }}
+	       {{ range (.Pages.GroupByParam "type").Reverse}}
+                 {{ if eq .Key "collaborative-ideas" }}
+                  <div>
+                   <dl>
                      <dt><strong>{{ .Key }}</strong></dt>
                         {{range .Pages}}
                          <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
                         {{end}}
                    </dl>
-                   {{ end }}
-               </div>
-              {{ end }}
+                  </div>
+                  {{ end }}
+                {{ end }}
          {{ end }}
     </main>
 {{ end }}
