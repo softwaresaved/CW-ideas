@@ -8,16 +8,34 @@
       <br>
        {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
           <h3>{{ .Key }}</h3>
-          <div>
-          {{ range (.Pages.GroupByParam "type").Reverse}}
-            <dl>
-               <dt><strong>{{ .Key }}</strong></dt>
-               {{range .Pages}}
-                  <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
-               {{end}}
-            </dl>
-          </div>
-      {{ end }}
-    {{ end }}
+	      {{ range (.Pages.GroupByParam "type").Reverse}}
+              <div>
+               {{ if eq .Key "hack-day" }}
+                <dl>
+                   <dt><strong>{{ .Key }}</strong></dt>
+                      {{range .Pages}}
+                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+                      {{end}}
+                 </dl>
+                 {{ end }}
+               {{ if eq .Key "hack-ideas" }}
+                <dl>
+                   <dt><strong>{{ .Key }}</strong></dt>
+                      {{range .Pages}}
+                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+                      {{end}}
+                 </dl>
+                 {{ end }}
+                 {{ if eq .Key "collaborative-ideas" }}
+                  <dl>
+                     <dt><strong>{{ .Key }}</strong></dt>
+                        {{range .Pages}}
+                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+                        {{end}}
+                   </dl>
+                   {{ end }}
+               </div>
+              {{ end }}
+         {{ end }}
     </main>
 {{ end }}
