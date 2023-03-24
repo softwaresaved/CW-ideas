@@ -27,6 +27,10 @@ tags:
 
 Developing scenarios to help nurture Inclusive Research Leaders
 
+#### **Hack day presentation**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RRWPSQsZvKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### **Context and/or research domain**
 
 Researchers and research software developers have developed experience and expertise in their areas of work. They have spent time learning how to code, analyze data and are experts in their domains. As people become leaders in their field, whether it’s a small group or a large team, they also need to develop leadership and management skills, but often haven’t had the opportunity to learn them, or are self-taught. This lack of knowledge around team leadership negatively impacts the person in the leadership position as well as those in their team. Therefore there is the opportunity for short-format, practical, hands-on training for people in or transitioning to research leadership roles.
