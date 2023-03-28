@@ -7,13 +7,12 @@ type: hack-ideas
 tags:
 - citation
 - CFF
+- CodeMeta
 ---
 
 Collaborations Workshop 2018 - 2018-03-26
 
-Aligning the Citation File Format and CodeMeta -
-
-HP3-CW18
+Aligning the Citation File Format and CodeMeta
 
 **Hackday Idea Proposer**
 
