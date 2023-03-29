@@ -34,6 +34,10 @@ Inclusive authorship/contributor tool
 Relevant to all domains to attribute contributions to research projects from all contributors more fairly in the authorship of academic publications.  
 
 
+### **Hack Day Demo**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u1qZymAzvGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### **Problem**
 
 Current systems that attribute contributions to authors in academic outputs do not include all of the jobs/roles/tasks that are encompassed in research projects. 
