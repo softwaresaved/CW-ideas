@@ -32,6 +32,10 @@ Charlie - CI3-CW21
 
 Astrophysics (as a pilot for other areas with similar deepset culture issues)
 
+### **Hack Day Demo**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2UzS_yOZZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### **Problem**
 
 

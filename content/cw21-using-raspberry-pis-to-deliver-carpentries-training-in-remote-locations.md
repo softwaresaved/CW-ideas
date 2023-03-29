@@ -40,6 +40,10 @@ _Using Raspberry Pis to deliver Carpentries training in remote locations_
 
 Low-to-Middle-Income Countries (LMICs) experience several challenges in building capacity of data analysis or software engineering skills that are necessary for contemporary data science. Several training programmes exist online, however these may not be easily accessible or in formats that can be utilised.
 
+### **Hack Day Demo**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6VKE7hLn9MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### **Problem**
 
 Software and data carpentries courses provide training in fundamental data skills essential to conducting research. Training researchers in these data skills is an essential part of empowering researchers in LMICs. However, delivering these courses depends on reliable internet access. That means that individuals who are living in areas with unreliable internet access, quite literally cannot access this valuable training.
