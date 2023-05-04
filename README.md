@@ -54,10 +54,5 @@ Tasks divided orthogonally
 - Provisioning a GitHub repo (Robin)
 
 ## Hack day presentation
-Available [here](https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit?usp=sharing).
+CW21 hack day presentation is available [here](https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit?usp=sharing).
 
-
-
-## ToDo
-
-- [ ] Implementation of ordering: hack-day > hack-ideas > collaborative-ideas in `by_type.html` and `by_year.html`  at `themes/PaperMod/layouts/_default` could be done much more elegantly - it's a bit of a hack just now.
