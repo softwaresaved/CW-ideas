@@ -89,8 +89,16 @@ menu:
           name: By type
           url: /bytype/
           weight: 25
+        - identifier: byauthors
+          name: By Authors
+          url: /byauthors/
+          weight: 25
         - identifier: search
           name: Search
           url: /search
           weight: 30
 
+taxonomies:
+  author: "author"
+  tag: "tags"
+  category: "categories"

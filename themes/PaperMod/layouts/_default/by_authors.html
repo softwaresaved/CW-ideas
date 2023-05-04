@@ -1,0 +1,22 @@
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <br>
+         
+<ul class="terms-tags">
+    {{ range .Site.Taxonomies.author.ByCount }}
+    {{ $count := .Count }} 
+      {{if gt $count 1}}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}<sup><strong><sup>{{ $count }}</sup></strong></sup></a></a></li>
+      {{ else }}
+      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></a></li>
+            {{ end }}
+    {{ end }}
+</ul>
+
+    </main>
+{{ end }}
