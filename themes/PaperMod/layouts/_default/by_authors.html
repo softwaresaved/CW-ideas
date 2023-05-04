@@ -6,7 +6,9 @@
         {{ end }}
       </header>
       <br>
-         
+
+<h3>Authors</h3>
+
 <ul class="terms-tags">
     {{ range .Site.Taxonomies.author.ByCount }}
             <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}<sup><strong><sup>{{ .Count }}</sup></strong></sup></a></a></li>
