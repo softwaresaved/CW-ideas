@@ -6,8 +6,12 @@
         {{ end }}
       </header>
       <br>
-      {{ range (.Site.RegularPages.GroupByParam "author")}}
-         <h3>{{ .Key }}</h3>
-      {{ end }}
+         
+<ul class="terms-tags">
+    {{ range .Site.Taxonomies.author.ByCount }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}<sup><strong><sup>{{ .Count }}</sup></strong></sup></a></a></li>
+    {{ end }}
+</ul>
+
     </main>
 {{ end }}

@@ -98,3 +98,7 @@ menu:
           url: /search
           weight: 30
 
+taxonomies:
+  author: "author"
+  tag: "tags"
+  category: "categories"
