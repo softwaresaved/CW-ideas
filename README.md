@@ -1,4 +1,4 @@
-# CW23 Improvemnts
+# CW23 Improvements
 
 For the 2023 Collaborations Worskshop the CW22 hack idea was revisited to improve:
 
