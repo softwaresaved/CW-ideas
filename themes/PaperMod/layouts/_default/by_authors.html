@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <br>
+         
+<ul class="terms-tags">
+    {{ range .Site.Taxonomies.author.ByCount }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}<sup><strong><sup>{{ .Count }}</sup></strong></sup></a></a></li>
+    {{ end }}
+</ul>
+
+    </main>
+{{ end }}
