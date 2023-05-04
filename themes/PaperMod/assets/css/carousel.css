@@ -147,7 +147,6 @@ input:checked + .slide-container .carousel-controls label {
 
 input:not(:checked) + .slide-container .slide-image {
     display: none; 
-    transition: opacity 1s ease-in-out;
 }
 
 
