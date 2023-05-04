@@ -136,11 +136,6 @@ ul.slides input {
 }
 
 
-.carousel-slide-wrapper {
-    display: flex;
-    flex-direction: column;
-}
-
 input:checked + .slide-container .slide-image {
     opacity: 1;
     transform: scale(1);
@@ -152,7 +147,33 @@ input:checked + .slide-container .carousel-controls label {
 }
 
 
+input#img-0:checked,
+input#img-1:checked,
+input#img-2:checked,
+input#img-3:checked,
+input#img-4:checked,
+input#img-5:checked,
+input#img-6:checked,
+input#img-7:checked,
+input#img-8:checked,
+input#img-9:checked,
+input#img-10:checked {
+    display: block;
+}
 
+input#img-0:not(:checked) ~ .slide-image,
+input#img-1:not(:checked) ~ .slide-image,
+input#img-2:not(:checked) ~ .slide-image,
+input#img-3:not(:checked) ~ .slide-image,
+input#img-4:not(:checked) ~ .slide-image,
+input#img-5:not(:checked) ~ .slide-image,
+input#img-6:not(:checked) ~ .slide-image,
+input#img-7:not(:checked) ~ .slide-image,
+input#img-8:not(:checked) ~ .slide-image,
+input#img-9:not(:checked) ~ .slide-image,
+input#img-10:not(:checked) {
+    display: none;
+}
 
 input#img-0:checked ~ .carousel-dots label#img-dot-0,
 input#img-1:checked ~ .carousel-dots label#img-dot-1,

@@ -3,20 +3,19 @@
 <div class="carousel-wrapper">
     <div class="carousel">
         <ul class="slides">
+
             {{ range $index, $post := .Site.RegularPages | shuffle | first $numberPosts }}
             {{ $prev := mod (sub $index 1) $numberPosts }}
             {{ $prev = cond (lt $prev 0) (sub $numberPosts 1) $prev }}
             {{ $next := mod (add $index 1) $numberPosts }}
-
-
             <input type="radio" name="radio-buttons" id="img-{{ $index }}" checked/>
             <li class="slide-container">
                 <div class="slide-image">
                     <a href="{{ $post.Permalink }}">
-                        <!-- This looks for an image given by t-->
+                        <!-- This looks for an image given by the img field of the metadata -->
                         {{ if $post.Params.img }}
                         {{ with .Resources.GetMatch $post.Params.img }}
-                          <img src="{{ .RelPermalink }}">
+                        <img src="{{ .RelPermalink }}">
                         {{ end }}
                         {{ else }}
                         <img src="https://www.software.ac.uk/sites/default/files/events/arnaud-mesureur-7EqQ1s3wIAI-unsplash.jpg"
@@ -35,6 +34,7 @@
                 </div>
             </li>
             {{ end }}
+
             <div class="carousel-dots">
                 {{ range $index := seq 0 (sub $numberPosts 1) }}
                 <label for="img-{{ $index }}" class="carousel-dot" id="img-dot-{{ $index }}"></label>
