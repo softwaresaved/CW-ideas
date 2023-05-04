@@ -1,27 +1,35 @@
 {{ define "main" }}
-    <main aria-role="main">
-      <header class="homepage-header">
-        {{ with .Params.subtitle }}
-        <span class="subtitle">{{.}}</span>
-        {{ end }}
-      </header>
-      <div><p>Each year the <a href="http://www.software.ac.uk">Software Sustainability Institute</a> runs the Collaborations Workshop, and as part
-        of the workshop, participants come up with <i>Collaborative Ideas</i> and <i>Hackday pitches</i>.
-      </p>
+<main aria-role="main">
+  <header class="homepage-header">
+    {{ with .Params.subtitle }}
+    <span class="subtitle">{{.}}</span>
+    {{ end }}
+  </header>
+  <div>
+    <p>Each year the <a href="http://www.software.ac.uk">Software Sustainability Institute</a> runs the Collaborations
+      Workshop, and as part
+      of the workshop, participants come up with <i>Collaborative Ideas</i> and <i>Hackday pitches</i>.
+    </p>
     <p>
       Until now, these were not available after the workshop finished - but now they are! This website lists
       all of the ideas, categorised and tagged appropriately.
     </p>
-          <br>
+    <br>
 
-  <p>Here is a random selection of a few ideas, click to view, or to find more, use the links on the top right:</p></div>
+    <p>Here is a random selection of a few ideas, click to view, or to find more, use the links on the top right:</p>
+  </div>
   <br>
-      <div>
-          <ul>
-        {{range .Site.RegularPages | shuffle | first 5}}
-<li><a href="{{.Permalink}}">{{.Title}}</a></li>
-{{end}}
-</ul>
-      </div>
-    </main>
+
+  <!--
+  <div>
+    <ul>
+      {{range .Site.RegularPages | shuffle | first 5}}
+      <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+      {{end}}
+    </ul>
+  </div>
+  -->
+
+  {{- partial "carousel.html" . -}}
+</main>
 {{ end }}
