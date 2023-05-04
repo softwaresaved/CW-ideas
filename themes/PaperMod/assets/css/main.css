@@ -43,3 +43,8 @@
 code {
     direction: ltr
 }
+
+.prize-tag.prize-1 { color: #c98016 }
+.prize-tag.prize-2 { color: #7f7f7f }
+.prize-tag.prize-3 { color: #da7c47 }
+.prize-tag.prize-other { color: #256d8a }
