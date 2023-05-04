@@ -8,12 +8,14 @@ For the 2023 Collaborations Worskshop the CW22 hack idea was revisited to improv
 
 People involved:
 
-* Heather Turner
-* Finn Bacall
-* Joao Morado
-* Jez Compe
-* Ugur Yilmaz
-* Gaurav Bhalerao
+* Heather Turner, worked on content improvement
+* Finn Bacall, Hugo improvement
+* Joao Morado, Hugo improvements
+* Jez Cope, Metadata improvements
+* Patricia Herterich, Metadata improvements
+* Ugur Yilmaz, Hugo improvements
+* Gaurav Bhalerao, Hugo improvements
+* Mario Antonioletti, Content improvements
 
 # Exploring previous Collaborations Workshop ideas (CW-ideas)
 
