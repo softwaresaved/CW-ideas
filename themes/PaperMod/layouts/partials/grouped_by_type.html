@@ -1,0 +1,15 @@
+{{- $pages := cond (eq .Pages nil) site.RegularPages .Pages -}}
+{{- $hack_day := where $pages "Params.type" "hack-day" | group "Hack Day" -}}
+{{- $hack_ideas := where $pages "Params.type" "hack-ideas" | group "Hack Ideas" -}}
+{{- $collaborative_ideas := where $pages "Params.type" "collaborative-ideas" | group "Collaborative Ideas" -}}
+{{- $groups := slice $hack_day $hack_ideas $collaborative_ideas -}}
+{{ range $groups }}
+  <div>
+    <dl>
+      <dt><strong>{{ .Key }}</strong></dt>
+      {{ range .Pages }}
+        <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+      {{ end }}
+    </dl>
+  </div>
+{{ end }}
