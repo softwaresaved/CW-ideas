@@ -6,44 +6,9 @@
         {{ end }}
       </header>
       <br>
-       {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
-          <h3>{{ .Key }}</h3>
-	      {{ range (.Pages.GroupByParam "type").Reverse}}
-                 {{ if eq .Key "hack-day" }}
-                <div>
-                  <dl>
-                     <dt><strong>{{ .Key }}</strong></dt>
-                        {{range .Pages}}
-                           <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
-                        {{end}}
-                   </dl>
-                   </div>
-                   {{ end }}
-                 {{ end }}
-	       {{ range (.Pages.GroupByParam "type").Reverse}}
-                 {{ if eq .Key "hack-ideas" }}
-                <div>
-                 <dl>
-                   <dt><strong>{{ .Key }}</strong></dt>
-                      {{range .Pages}}
-                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
-                      {{end}}
-                 </dl>
-                 </div>
-                 {{ end }}
-                 {{ end }}
-	       {{ range (.Pages.GroupByParam "type").Reverse}}
-                 {{ if eq .Key "collaborative-ideas" }}
-                  <div>
-                   <dl>
-                     <dt><strong>{{ .Key }}</strong></dt>
-                        {{range .Pages}}
-                         <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
-                        {{end}}
-                   </dl>
-                  </div>
-                  {{ end }}
-                {{ end }}
-         {{ end }}
+      {{- range (.Site.Pages.GroupByParam "year").Reverse -}}
+        <h3>{{ .Key }}</h3>
+        {{- partial "grouped_by_type.html" . -}}
+      {{- end -}}
     </main>
 {{ end }}

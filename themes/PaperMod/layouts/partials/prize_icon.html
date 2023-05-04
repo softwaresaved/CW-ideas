@@ -1,0 +1,15 @@
+{{ if eq .Params.prize 1 }}
+  <span class="prize-tag prize-{{- .Params.prize -}}">🥇 1st Place</span>
+{{ else }}
+  {{ if eq .Params.prize 2 }}
+    <span class="prize-tag prize-{{- .Params.prize -}}">🥈 2nd Place</span>
+  {{ else }}
+    {{ if eq .Params.prize 3 }}
+      <span class="prize-tag prize-{{- .Params.prize -}}">🥉 3rd Place</span>
+    {{ else }}
+      {{ if ne .Params.prize nil }}
+        <span class="prize-tag prize-other">🏅 {{ .Params.prize }}</span>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

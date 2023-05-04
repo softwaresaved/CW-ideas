@@ -1,4 +1,4 @@
-{{ define "main" }}
+{{- define "main" }}
 
 {{- if .Title }}
 <header class="page-header">
@@ -13,15 +13,19 @@
 
 <ul class="terms-tags">
     {{- $type := .Type }}
-    {{- range $key, $value := .Data.Terms.Alphabetical }}
+    {{- range $key, $value := .Data.Terms.ByCount }}
     {{- $name := .Name }}
     {{- $count := .Count }}
-    {{- with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+    {{- with site.GetPage (printf "/%s/%s" $type $name) }}
     <li>
-        <a href="{{ .Permalink }}">{{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
+        {{ if gt $count 1 }}
+            <a href="{{ .Permalink }}">{{ .Name }}<sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
+        {{ else }}
+            <a href="{{ .Permalink }}">{{ .Name }}</a>
+        {{- end }}
     </li>
     {{- end }}
     {{- end }}
 </ul>
 
-{{ end  }}{{/* end main */}}
+{{- end }}{{/* end main */ -}}
