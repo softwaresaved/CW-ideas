@@ -17,7 +17,7 @@ People involved:
 * Gaurav Bhalerao, Hugo improvements
 * Mario Antonioletti, Content improvements
 
-# Exploring previous Collaborations Workshop ideas (CW-ideas)
+## Exploring previous Collaborations Workshop ideas (CW-ideas)
 
 This is a fork of a repo originally produced for a hack day project at the [2021 Collaborations Workshop](http://www.software.ac.uk/cw21). The website presents the collaborative ideas and hackday pitches generated at previous Collaborations Workshops and makes them available through an easily browseable and searchable interface.
 
@@ -34,25 +34,30 @@ This repository is licensed under the MIT license, and most of the ideas themsel
 The team that created this was: Mario Antonioletti, Heather Turner and Robin Wilson.
 
 ## Building locally
+
 The repository is automatically built and deployed on every push using GitHub actions, but if you want to build locally for testing or debugging purposes, follow the instructions below:
+
 1. Install [Hugo](https://gohugo.io/getting-started/installing/).
-2. In the root of the repo, run 
+2. In the root of the repo, run
+
    ```bash
-   $ hugo server
+   hugo server
    ```
+
 3. The site will be built, and served on localhost - see the command-line output for the full URL.
 
-
 ## Task split during the hack day
-- Heather Turner: The brains behind the original idea.
-- Robin Wilson: The technical guru.
-- Mario Antonioletti: The plodder with superpowers.
+
+* Heather Turner: The brains behind the original idea.
+* Robin Wilson: The technical guru.
+* Mario Antonioletti: The plodder with superpowers.
 
 Tasks divided orthogonally
-- Conversion of past google doc proposals to markdown (Mario and Robin)
-- Configuring and setting up Hugo (Robin and Heather)
-- Provisioning a GitHub repo (Robin)
+
+* Conversion of past google doc proposals to markdown (Mario and Robin)
+* Configuring and setting up Hugo (Robin and Heather)
+* Provisioning a GitHub repo (Robin)
 
 ## Hack day presentation
-CW21 hack day presentation is available [here](https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit?usp=sharing).
 
+CW21 hack day presentation is available [here](https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit?usp=sharing).
