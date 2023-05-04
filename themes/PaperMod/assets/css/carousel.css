@@ -135,6 +135,7 @@ ul.slides input {
 }
 
 
+
 input:checked + .slide-container .slide-image {
     opacity: 1;
     transform: scale(1);
@@ -146,9 +147,8 @@ input:checked + .slide-container .carousel-controls label {
 }
 
 input:not(:checked) + .slide-container .slide-image {
-    display: none; 
+    visibility: hidden;
 }
-
 
 input#img-0:checked ~ .carousel-dots label#img-dot-0,
 input#img-1:checked ~ .carousel-dots label#img-dot-1,
