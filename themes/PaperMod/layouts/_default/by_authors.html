@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <br>
+      {{ range (.Site.RegularPages.GroupByParam "author")}}
+         <h3>{{ .Key }}</h3>
+      {{ end }}
+    </main>
+{{ end }}

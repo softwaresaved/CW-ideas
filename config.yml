@@ -89,6 +89,10 @@ menu:
           name: By type
           url: /bytype/
           weight: 25
+        - identifier: byauthors
+          name: By Authors
+          url: /byauthors/
+          weight: 25
         - identifier: search
           name: Search
           url: /search
