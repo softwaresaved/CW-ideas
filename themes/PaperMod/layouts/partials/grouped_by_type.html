@@ -8,7 +8,24 @@
     <dl>
       <dt><strong>{{ .Key }}</strong></dt>
       {{ range .Pages }}
-        <dd><a href="{{.Permalink}}">{{.Title}}</a></dd>
+        <dd>
+          <a href="{{.Permalink}}">{{.Title}}</a>
+          {{ if eq .Params.prize 1 }}
+            <span class="prize-tag prize-{{- .Params.prize -}}">🥇 1st Place</span>
+          {{ else }}
+            {{ if eq .Params.prize 2 }}
+              <span class="prize-tag prize-{{- .Params.prize -}}">🥈 2nd Place</span>
+            {{ else }}
+              {{ if eq .Params.prize 3 }}
+                <span class="prize-tag prize-{{- .Params.prize -}}">🥉 3rd Place</span>
+              {{ else }}
+                {{ if ne .Params.prize nil }}
+                  <span class="prize-tag prize-other">🏅 Winner</span>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </dd>
       {{ end }}
     </dl>
   </div>
