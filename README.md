@@ -1,4 +1,13 @@
+# CW23 Improvemnts
+
+For the 2023 Collaborations Worskshop the CW22 hack idea was revisited to improve:
+
+* The look and feel of the content
+* The metadata used for the hack ideas
+* The content in terms of enhancements
+
 # Exploring previous Collaborations Workshop ideas (CW-ideas)
+
 This is a fork of a repo originally produced for a hack day project at the [2021 Collaborations Workshop](http://www.software.ac.uk/cw21). The website presents the collaborative ideas and hackday pitches generated at previous Collaborations Workshops and makes them available through an easily browseable and searchable interface.
 
 A live version of the website is hosted at:
