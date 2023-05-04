@@ -1,6 +1,6 @@
 # CW23 Improvements
 
-For the 2023 Collaborations Worskshop the CW22 hack idea was revisited to improve:
+For the 2023 Collaborations Worskshop the CW21 hack idea was revisited to improve:
 
 * The look and feel of the content
 * The metadata used for the hack ideas
