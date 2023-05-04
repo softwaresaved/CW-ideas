@@ -7,6 +7,9 @@
       {{ .Title }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h1>
+    {{- if ne .Params.prize nil -}}
+      {{- partial "prize_icon.html" . -}}
+    {{- end -}}
     {{- if .Description }}
     <div class="post-description">
       {{ .Description }}

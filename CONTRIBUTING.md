@@ -56,6 +56,7 @@ year: 2022
 type: hack day
 tags:
 - 
+prize: 
 ---
 ```
 
@@ -75,6 +76,7 @@ type: hack day
 tags:
 - software-carpentry 
 - training
+prize: 2
 ---
 ```
 
@@ -88,6 +90,9 @@ Specifically, note that:
   - `collaborative idea` for a Collaborative Idea.
 
 - The `tags` contains a list (one per line) of tags for the entry.
+- The `prize` indicates whether this entry won a prize. It can be:
+  - `1`, `2` or `3` for 1st, 2nd and 3rd place to display a gold/silver/bronze medal icon. 
+  - An arbitrary string which will be displayed as-is next to a generic medal icon, e.g. `prize: "Punniest Project Title"`.
 
 ### Save the file
 

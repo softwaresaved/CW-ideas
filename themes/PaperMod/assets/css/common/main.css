@@ -71,3 +71,13 @@ pre:hover .copy-code {
 .prize-tag.prize-2 { color: #7f7f7f }
 .prize-tag.prize-3 { color: #da7c47 }
 .prize-tag.prize-other { color: #256d8a }
+
+.corner-prize-tag {
+    position: absolute;
+    left: -10px;
+    top: -20px;
+    background: var(--entry);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    padding: 5px 10px;
+}
