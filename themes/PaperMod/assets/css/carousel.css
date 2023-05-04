@@ -44,7 +44,6 @@ ul.slides input {
     cursor: pointer;
 }   
 
-
 /* Child Text Container */
 .slide-image div{
     position: absolute;
@@ -146,34 +145,11 @@ input:checked + .slide-container .carousel-controls label {
      display: block; 
 }
 
-
-input#img-0:checked,
-input#img-1:checked,
-input#img-2:checked,
-input#img-3:checked,
-input#img-4:checked,
-input#img-5:checked,
-input#img-6:checked,
-input#img-7:checked,
-input#img-8:checked,
-input#img-9:checked,
-input#img-10:checked {
-    display: block;
+input:not(:checked) + .slide-container .slide-image {
+    display: none; 
+    transition: opacity 1s ease-in-out;
 }
 
-input#img-0:not(:checked) ~ .slide-image,
-input#img-1:not(:checked) ~ .slide-image,
-input#img-2:not(:checked) ~ .slide-image,
-input#img-3:not(:checked) ~ .slide-image,
-input#img-4:not(:checked) ~ .slide-image,
-input#img-5:not(:checked) ~ .slide-image,
-input#img-6:not(:checked) ~ .slide-image,
-input#img-7:not(:checked) ~ .slide-image,
-input#img-8:not(:checked) ~ .slide-image,
-input#img-9:not(:checked) ~ .slide-image,
-input#img-10:not(:checked) {
-    display: none;
-}
 
 input#img-0:checked ~ .carousel-dots label#img-dot-0,
 input#img-1:checked ~ .carousel-dots label#img-dot-1,
@@ -189,6 +165,5 @@ input#img-10:checked ~ .carousel-dots label#img-dot-10
  {
 	opacity: 1;
 }
-
 
 input:checked + .slide-container .nav label { display: block; }
